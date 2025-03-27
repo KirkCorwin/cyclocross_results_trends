@@ -1,0 +1,564 @@
+﻿		1-2nd Grade Female																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2							Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	2066	Georgina Henricks		1-2nd Grade Female	8	Female	18:59.7	2:09.9	16:49.8							-	-	100%	25.15%	25.92%	2	-
+2	2028	Maddie Jarrett		1-2nd Grade Female	6	Female	21:54.1	2:15.6	19:38.5							+2:54.4	+15.30%	86.73%	13.69%	14.59%	2	-
+3	2071	Georgia Galbraith	Alki Velo Club	1-2nd Grade Female	6	Female	29:22.9	2:26.5	26:56.4							+10:23.2	+54.68%	64.65%	-15.78%	-14.59%	2	-
+4	2074	Ana Sherfey	Organic Gnar Harvest	1-2nd Grade Female	5	Female	31:13.6	2:18.0	28:55.6							+12:13.9	+64.39%	60.83%	-23.05%	-21.78%	2	-
+-	2067	Iris McCabe	Grit City Health	1-2nd Grade Female	5	Female	DNS									-	-	-	-	-	0	32
+																						
+		1-2nd Grade Male																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2							Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	2075	Tristan Jaten-Thompson		1-2nd Grade Male	7	Male	16:32.3	2:07.7	14:24.6							-	-	100%	28.26%	23.63%	2	-
+2	2073	Paul Plourde		1-2nd Grade Male	7	Male	18:52.0	2:07.8	16:44.2							+2:19.7	+14.08%	87.66%	18.17%	12.87%	2	-
+3	2027	Hutchinson Williams	Booger	1-2nd Grade Male	7	Male	20:47.5	2:14.6	18:32.9							+4:15.2	+25.72%	79.54%	9.82%	3.98%	2	-
+4	2069	Teddy Storrar		1-2nd Grade Male	7	Male	20:51.8	2:11.7	18:40.1							+4:19.5	+26.15%	79.27%	9.50%	3.65%	2	-
+5	2026	Malcolm Sirois	Black Sheep Velo	1-2nd Grade Male	6	Male	21:35.0	2:15.3	19:19.7							+5:02.7	+30.50%	76.63%	6.38%	0.33%	2	-
+6	2055	Declan Stavem		1-2nd Grade Male	7	Male	21:43.5	2:12.7	19:30.8							+5:11.2	+31.36%	76.13%	5.77%	-0.33%	2	-
+7	2056	Nathan Pyle		1-2nd Grade Male	7	Male	22:58.4	2:15.9	20:42.5							+6:26.1	+38.91%	71.99%	0.35%	-6.09%	2	-
+8	2054	Lorenzo Quinzon	Gene Johnson Cycling Team	1-2nd Grade Male	6	Male	23:10.1	2:15.4	20:54.7							+6:37.8	+40.09%	71.38%	-0.49%	-6.99%	2	-
+9	2070	Emmett Baker		1-2nd Grade Male	7	Male	27:42.3	2:17.5	25:24.8							+11:10.0	+67.52%	59.69%	-20.17%	-27.94%	2	-
+10	2053	Thomas Westover		1-2nd Grade Male	6	Male	36:19.9	2:31.5	33:48.4							+19:47.6	+119.68%	45.52%	-57.59%	-67.78%	2	-
+																						
+		3-5th Grade Female																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3						Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	899	Greta Leuschke	Black Sheep Velo	3-5th Grade Female	10	Female	31:01.6	1:33.6	14:05.3	15:22.7						-	-	100%	8.72%	2.57%	3	45
+1	905	Oakley McMahan	Black Sheep Velo	3-5th Grade Female	9	Female	31:01.6	1:35.5	14:15.4	15:10.7						-	-	100%	8.72%	2.57%	3	45
+3	904	Fiona Sirois	Black Sheep Velo	3-5th Grade Female	10	Female	31:50.8	1:36.5	15:12.9	15:01.4						+0:49.2	+2.64%	97.43%	6.31%	0.00%	3	38
+4	925	Ava Rigel	Black Sheep Velo	3-5th Grade Female	9	Female	32:40.1	1:36.3	15:04.6	15:59.2						+1:38.5	+5.29%	94.97%	3.89%	-2.58%	3	34
+5	876	Gabriella Brummett Serrano	NWCX Project	3-5th Grade Female	8	Female	43:23.4	1:42.7	20:09.4	21:31.3						+12:21.8	+39.85%	71.51%	-27.65%	-36.25%	3	-
+6	902	Ellie Galbraith	Alki Velo Club	3-5th Grade Female	8	Female	-1 lap	1:40.2	19:09.5	-						-	-	-	-	-	2	-
+																						
+		3-5th Grade Male																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4					Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	898	Gage Jarrett	PSC	3-5th Grade Male	10	Male	40:36.1	1:33.2	12:42.0	13:04.8	13:16.1					-	-	100%	3.86%	1.20%	4	-
+2	897	Bennett Valente	JBO Sports	3-5th Grade Male	9	Male	40:52.3	1:34.2	12:42.8	13:20.7	13:14.6					+0:16.2	+0.66%	99.34%	3.22%	0.55%	4	-
+3	878	Max Hansen	Wenatchee Valley Devo	3-5th Grade Male	11	Male	41:19.3	1:34.3	12:56.1	13:21.5	13:27.4					+0:43.2	+1.77%	98.26%	2.15%	-0.55%	4	-
+4	893	Gavin Fairbanks	Booger	3-5th Grade Male	10	Male	46:07.9	1:34.6	14:01.3	14:37.3	15:54.7					+5:31.8	+13.62%	88.01%	-9.23%	-12.25%	4	-
+5	900	Henry Hericks		3-5th Grade Male	10	Male	-1 lap	1:36.6	14:23.9	14:29.9	-					-	-	-	-	-	3	-
+6	879	Asa Mensher	Keller Rohrbach	3-5th Grade Male	10	Male	-1 lap	1:37.4	14:00.7	15:38.1	-					-	-	-	-	-	3	-
+7	903	Arlo Turkweiss	RAD Racing	3-5th Grade Male	8	Male	-1 lap	1:37.6	14:51.9	15:23.2	-					-	-	-	-	-	3	-
+8	877	Asher Punsalan		3-5th Grade Male	9	Male	-1 lap	1:38.2	15:14.9	15:36.3	-					-	-	-	-	-	3	-
+9	901	Cormac Jaten-Thompson		3-5th Grade Male	10	Male	-1 lap	1:35.4	16:41.4	15:44.3	-					-	-	-	-	-	3	-
+10	906	Jackson McCall		3-5th Grade Male	9	Male	-1 lap	1:39.0	16:49.7	16:49.3	-					-	-	-	-	-	3	-
+11	885	Franklin Clark	Cascadia Wheel Co. Dirt Team	3-5th Grade Male	8	Male	-1 lap	1:40.6	16:14.1	20:27.0	-					-	-	-	-	-	3	17
+12	886	Toby Hansen	Cascadia Wheel Co. Dirt Team	3-5th Grade Male	8	Male	-2 laps	1:32.6	13:28.4	-	-					-	-	-	-	-	2	16
+																						
+		Beginner Female																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6			Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	838	Sarah Evans		Beginner Female	30	Female	1:02:56.5	2:49.8	11:57.6	11:46.5	12:20.9	12:00.1	12:01.6			-	-	100%	0.00%	0.00%	6	-
+2	837	Kelsey Dunn		Beginner Female	28	Female	-1 lap	2:50.5	12:01.5	12:10.3	12:21.8	12:38.1	-			-	-	-	-	-	5	-
+3	835	Jennifer Borshoff		Beginner Female	30	Female	-1 lap	2:50.1	12:33.1	12:27.3	12:50.9	13:02.8	-			-	-	-	-	-	5	-
+4	839	Katelyn Williams	Booger	Beginner Female	36	Female	-1 lap	2:52.6	13:30.6	12:58.4	12:56.6	12:44.2	-			-	-	-	-	-	5	-
+5	822	Eili Rahnel-Efraim	Spokeswomen Racing	Beginner Female	46	Female	-1 lap	2:52.4	13:16.2	13:37.3	13:52.5	13:57.2	-			-	-	-	-	-	5	32
+6	836	Heather Gebhardt		Beginner Female	37	Female	-1 lap	2:53.1	14:06.7	14:39.9	13:58.2	14:28.6	-			-	-	-	-	-	5	-
+7	777	Angela Serrano Brummett	Taco Time Northwest Cycling Team	Beginner Female	39	Female	-1 lap	2:54.0	15:07.4	14:07.1	14:30.2	14:00.4	-			-	-	-	-	-	5	-
+8	834	Dorianne Caswell	Spokeswomen Racing	Beginner Female	38	Female	-1 lap	2:53.5	14:33.4	14:18.2	14:29.4	14:34.2	-			-	-	-	-	-	5	24
+9	776	Gallia Painter Mackinnon		Beginner Female	36	Non-Binary	-1 lap	2:53.6	14:27.4	14:24.0	15:05.6	16:21.1	-			-	-	-	-	-	5	-
+10	778	Susan Fletcher	Montlake Bicycle Shop	Beginner Female	57	Female	-1 lap	2:55.7	15:05.1	14:50.7	15:58.9	15:08.4	-			-	-	-	-	-	5	-
+11	832	Melissa Jaten		Beginner Female	48	Female	-2 laps	2:56.8	15:42.2	18:08.3	17:40.0	-	-			-	-	-	-	-	4	-
+12	828	Carly Lincoln	Pizza Pals	Beginner Female	30	Female	-2 laps	2:56.2	16:20.2	18:03.2	18:40.5	-	-			-	-	-	-	-	4	-
+																						
+		Beginner Male																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5				Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	1159	Tyler Triquet		Beginner Male	27	Male	44:46.8	1:22.5	11:25.4	10:54.0	10:35.9	10:29.0				-	-	100%	5.89%	6.95%	5	-
+2	1153	Mike Lang	Flat Earth Bike Club	Beginner Male	32	Male	44:58.3	1:15.9	10:51.7	10:49.2	11:13.7	10:47.8				+0:11.5	+0.43%	99.57%	5.49%	6.56%	5	41
+3	1154	Ryan Young		Beginner Male	30	Male	45:03.9	1:16.5	10:40.5	11:01.1	11:09.3	10:56.5				+0:17.1	+0.64%	99.37%	5.29%	6.36%	5	-
+4	1261	Jesse Thompson		Beginner Male	49	Male	45:18.7	1:17.4	11:08.4	11:00.4	10:58.4	10:54.1				+0:31.9	+1.19%	98.83%	4.77%	5.85%	5	-
+5	1259	Alexander Olson		Beginner Male	27	Male	45:54.6	1:19.2	11:29.1	11:21.2	10:53.8	10:51.3				+1:07.8	+2.52%	97.54%	3.52%	4.61%	5	-
+6	1269	Bowen Dazey		Beginner Male	42	Male	46:21.9	1:26.1	11:37.1	11:13.2	11:00.7	11:04.8				+1:35.1	+3.54%	96.58%	2.56%	3.66%	5	-
+7	1268	Puneet Dewan		Beginner Male	51	Male	47:16.5	1:21.6	11:34.1	11:16.1	11:37.4	11:27.3				+2:29.7	+5.57%	94.72%	0.65%	1.77%	5	-
+8	1263	Dan Morris		Beginner Male	56	Male	47:27.2	1:24.2	11:58.8	11:34.2	11:13.5	11:16.5				+2:40.4	+5.97%	94.37%	0.27%	1.40%	5	-
+9	1270	Otis Hatfield	N/A	Beginner Male	26	Male	48:00.4	1:20.3	11:34.5	11:36.4	11:43.7	11:45.5				+3:13.6	+7.21%	93.28%	-0.89%	0.25%	5	-
+10	1156	Dan Orsborn		Beginner Male	23	Male	48:14.8	1:20.9	11:26.1	11:25.1	11:56.7	12:06.0				+3:28.0	+7.74%	92.81%	-1.39%	-0.25%	5	-
+11	671	Thomas Chung	Liquid Velo	Beginner Male	37	Male	48:37.3	0:15.6	12:27.3	12:10.6	11:50.4	11:53.4				+3:50.5	+8.58%	92.10%	-2.18%	-1.03%	5	17
+12	1256	Samuel Herrera	Team Oregon  P/B Rodda Paint	Beginner Male	38	Male	48:40.0	1:00.0	12:00.0	12:00.0	12:00.0	11:40.0				+3:53.2	+8.68%	92.01%	-2.28%	-1.12%	5	-
+13	1258	Thadeus Tucker		Beginner Male	44	Male	48:40.3	1:22.0	11:49.9	11:44.8	11:57.5	11:46.1				+3:53.5	+8.69%	92.00%	-2.29%	-1.13%	5	-
+14	1274	Justin Cooper		Beginner Male	39	Male	49:04.2	1:21.5	11:59.2	11:49.0	12:09.6	11:44.9				+4:17.4	+9.58%	91.26%	-3.13%	-1.96%	5	-
+15	1162	Conrad Forde		Beginner Male	28	Male	49:19.9	1:24.2	11:47.5	11:43.1	12:25.6	11:59.5				+4:33.1	+10.16%	90.77%	-3.68%	-2.50%	5	-
+16	1264	Blaze Solberg		Beginner Male	26	Male	49:20.3	1:22.1	12:00.5	11:57.7	12:09.7	11:50.3				+4:33.5	+10.18%	90.76%	-3.69%	-2.52%	5	-
+17	1266	Daniel Quigley	One Track Mind	Beginner Male	33	Male	49:31.7	1:16.9	11:43.0	12:12.8	12:25.8	11:53.2				+4:44.9	+10.60%	90.41%	-4.09%	-2.91%	5	-
+18	1160	Brett Robertson	Taco Time Northwest Cycling Team	Beginner Male	42	Male	49:52.8	1:22.4	12:01.3	12:17.4	11:57.9	12:13.8				+5:06.0	+11.39%	89.78%	-4.83%	-3.64%	5	-
+19	1257	Noah Anderson	Gene Johnson Cycling Team	Beginner Male	27	Male	-1 lap	1:18.6	10:47.5	11:36.3	11:19.6	-				-	-	-	-	-	4	-
+20	1346	Michael Astudillo		Beginner Male	32	Male	-1 lap	1:25.7	12:21.4	12:01.1	12:12.4	-				-	-	-	-	-	4	-
+21	1251	Scott Burger	Liquid Velo	Beginner Male	35	Male	-1 lap	1:19.3	11:54.9	12:16.8	12:42.7	-				-	-	-	-	-	4	6
+22	1271	Stuart Tanasse		Beginner Male	34	Male	-1 lap	1:21.3	11:54.3	12:23.4	12:45.3	-				-	-	-	-	-	4	-
+23	1157	Matthew Crevier		Beginner Male	38	Male	-1 lap	1:25.3	12:06.6	12:19.4	12:40.0	-				-	-	-	-	-	4	-
+24	1260	Derek Punsalan		Beginner Male	40	Male	-1 lap	1:25.0	12:42.0	12:12.2	12:18.6	-				-	-	-	-	-	4	-
+25	1265	John Baird		Beginner Male	56	Male	-1 lap	1:26.8	12:27.3	12:25.3	12:30.3	-				-	-	-	-	-	4	-
+26	1155	Chance Powelson	Illuminati Cycling	Beginner Male	38	Male	-1 lap	1:24.5	12:41.1	13:01.2	12:11.1	-				-	-	-	-	-	4	-
+27	1267	Joey Shevelson	Alki Velo Club	Beginner Male	42	Male	-1 lap	1:21.2	12:45.7	13:31.5	12:59.8	-				-	-	-	-	-	4	-
+28	1273	Kenneth Tseng		Beginner Male	31	Male	-1 lap	1:24.9	12:27.6	13:40.0	13:06.9	-				-	-	-	-	-	4	-
+29	1272	Ian Docena		Beginner Male	37	Male	-1 lap	1:22.9	12:45.2	13:03.8	13:33.8	-				-	-	-	-	-	4	-
+30	1158	Danny Duran		Beginner Male	38	Male	-1 lap	1:20.2	12:43.3	13:42.4	13:35.5	-				-	-	-	-	-	4	-
+31	1152	James Gleadhill		Beginner Male	34	Male	-1 lap	1:22.2	12:54.5	13:37.3	13:33.1	-				-	-	-	-	-	4	-
+32	1262	Andrew Shuman		Beginner Male	53	Male	-1 lap	1:27.2	13:01.1	13:33.3	14:26.5	-				-	-	-	-	-	4	-
+33	1222	Max Hitch	Flat Earth Bike Club	Beginner Male	31	Male	-1 lap	1:25.2	13:01.2	13:56.3	14:08.5	-				-	-	-	-	-	4	1
+34	1161	Matthew Richman		Beginner Male	34	Male	-1 lap	1:26.3	13:29.1	13:41.9	14:10.9	-				-	-	-	-	-	4	-
+35	1151	Mark Russeff		Beginner Male	42	Male	-1 lap	1:22.2	12:53.9	14:40.6	15:00.0	-				-	-	-	-	-	4	-
+																						
+		C3 Male 50+																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6			Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	1783	Kirk Canfield		C3 Male 50+	53	Male	48:26.4	0:12.0	9:23.5	9:32.9	9:35.2	9:44.2	9:58.6			-	-	100%	7.04%	6.64%	6	-
+2	1818	Todd Reedy		C3 Male 50+	60	Male	48:36.7	0:12.5	9:22.0	9:27.9	9:43.8	9:55.4	9:55.1			+0:10.3	+0.35%	99.65%	6.71%	6.31%	6	-
+3	1788	Travis Frazier		C3 Male 50+	50	Male	48:38.6	0:12.2	9:49.9	9:42.9	9:41.5	9:34.9	9:37.2			+0:12.2	+0.42%	99.58%	6.65%	6.25%	6	-
+4	1782	Cole Meckle	PCP Racing	C3 Male 50+	53	Male	48:55.1	0:11.9	9:41.6	9:44.8	9:40.3	9:50.4	9:46.1			+0:28.7	+0.99%	99.02%	6.12%	5.72%	6	34
+5	1792	Leo Berk	Booger	C3 Male 50+	50	Male	48:56.8	0:13.4	9:46.4	9:39.9	9:45.8	9:46.0	9:45.3			+0:30.4	+1.05%	98.96%	6.07%	5.67%	6	-
+6	1729	Michael Burris		C3 Male 50+	60	Male	49:39.2	0:12.6	9:39.6	9:43.9	9:51.1	9:53.0	10:19.0			+1:12.8	+2.50%	97.56%	4.71%	4.30%	6	-
+7	1784	Tim Lewis		C3 Male 50+	54	Male	49:50.1	0:11.7	9:34.7	9:50.7	9:55.0	10:02.9	10:15.1			+1:23.7	+2.88%	97.20%	4.36%	3.95%	6	-
+8	1727	Rob Briggs	CBC Racing/Country Green Turf Farms	C3 Male 50+	50	Male	50:04.4	0:10.9	9:20.0	9:51.7	10:04.6	10:14.6	10:22.6			+1:38.0	+3.37%	96.74%	3.91%	3.49%	6	-
+9	1726	Douglas Wilcox	Apex Racing	C3 Male 50+	55	Male	50:54.1	0:11.7	9:31.9	9:51.8	10:23.8	10:29.6	10:25.3			+2:27.7	+5.08%	95.16%	2.32%	1.90%	6	-
+10	1730	Scott McNees		C3 Male 50+	52	Male	51:50.4	0:11.3	9:53.1	10:04.1	10:19.4	10:45.2	10:37.3			+3:24.0	+7.02%	93.44%	0.52%	0.09%	6	-
+11	1775	Jonathan Olson	Dyna Racing	C3 Male 50+	52	Male	51:53.2	0:12.9	9:58.0	10:04.6	10:30.3	10:42.1	10:25.3			+3:26.8	+7.12%	93.36%	0.43%	0.00%	6	-
+12	1728	Kempton Baker		C3 Male 50+	58	Male	51:59.3	0:12.8	10:04.3	10:17.6	10:25.9	10:32.2	10:26.5			+3:32.9	+7.33%	93.17%	0.23%	-0.20%	6	-
+13	1790	Adam Blexrud		C3 Male 50+	50	Male	52:51.4	0:14.6	10:29.4	10:21.3	10:37.9	10:40.4	10:27.8			+4:25.0	+9.12%	91.64%	-1.43%	-1.87%	6	-
+13	1823	David Cook		C3 Male 50+	55	Male	52:51.4	0:13.6	10:24.6	10:18.9	10:38.6	10:42.1	10:33.6			+4:25.0	+9.12%	91.64%	-1.43%	-1.87%	6	-
+15	1731	Nathan Webster	Black Sheep Velo	C3 Male 50+	56	Male	53:08.1	0:14.1	10:21.3	10:14.1	10:37.2	10:51.7	10:49.7			+4:41.7	+9.69%	91.16%	-1.97%	-2.41%	6	-
+16	1825	Jeff Nelson	Recycled Cycles Racing	C3 Male 50+	51	Male	53:43.4	0:14.2	10:29.4	10:39.8	10:47.1	10:54.1	10:38.8			+5:17.0	+10.91%	90.17%	-3.10%	-3.54%	6	-
+17	1785	Bernard Georges	PCP Racing	C3 Male 50+	58	Male	54:18.3	0:14.0	10:20.1	10:36.8	10:49.5	10:58.5	11:19.4			+5:51.9	+12.11%	89.20%	-4.21%	-4.66%	6	11
+18	1787	Wayne Wakeman	Unavita Racing	C3 Male 50+	51	Male	55:18.6	0:13.6	10:28.3	10:41.6	11:09.0	11:21.5	11:24.6			+6:52.2	+14.18%	87.58%	-6.14%	-6.60%	6	-
+19	1789	Mike Doherty		C3 Male 50+	59	Male	55:53.6	0:14.4	10:35.9	10:53.6	11:01.8	11:28.6	11:39.3			+7:27.2	+15.39%	86.67%	-7.26%	-7.72%	6	-
+20	1811	Todd Mason		C3 Male 50+	52	Male	57:38.5	0:14.1	10:39.9	10:56.6	11:25.7	11:58.2	12:24.0			+9:12.1	+19.00%	84.04%	-10.62%	-11.09%	6	-
+21	1786	Chris Kinsella		C3 Male 50+	55	Male	58:49.8	0:15.0	11:13.1	11:29.5	11:58.5	11:56.8	11:56.9			+10:23.4	+21.45%	82.34%	-12.90%	-13.38%	6	-
+22	1780	Josh Warborg	Alki Velo Club	C3 Male 50+	52	Male	-1 lap	0:13.5	10:06.4	10:21.3	10:45.7	16:03.1	-			-	-	-	-	-	5	-
+-	1791	John Drenning		C3 Male 50+	54	Male	DNS									-	-	-	-	-	0	4
+																						
+		C3 Male 60+																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6			Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	1525	Jim Albright	CBC Racing/Country Green Turf Farms	C3 Male 60+	62	Male	53:08.4	1:19.2	10:19.6	10:09.7	10:17.3	10:23.9	10:38.7			-	-	100%	4.90%	5.03%	6	-
+2	1515	Chris Mendoza	Green Bike Team	C3 Male 60+	61	Male	53:34.5	1:19.4	10:07.9	10:07.8	10:27.4	10:41.8	10:50.2			+0:26.1	+0.82%	99.19%	4.12%	4.25%	6	-
+3	2205	Kevin Schock	Alki Velo Club	C3 Male 60+	62	Male	58:19.8	1:18.6	10:39.7	10:59.0	11:28.0	12:03.8	11:50.7			+5:11.4	+9.77%	91.10%	-4.39%	-4.25%	6	-
+4	1524	Kevin Mallory	Phantom Racing	C3 Male 60+	64	Male	58:28.1	1:20.5	11:13.3	11:16.7	11:29.2	11:26.5	11:41.9			+5:19.7	+10.03%	90.89%	-4.64%	-4.50%	6	-
+5	1516	Dave Stanton		C3 Male 60+	65	Male	-1 lap	1:20.4	11:22.9	12:37.7	16:39.1	13:42.9	-			-	-	-	-	-	5	-
+6	1514	Francisco Pons		C3 Male 60+	60	Male	-5 laps	1:20.1	-	-	-	-	-			-	-	-	-	-	1	-
+																						
+		Cat 1/2 Female																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Lap 7		Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	1499	Bry Osmonson	Breakfast Racing Team	Cat 1/2 Female	32	Female	1:02:19.0	1:48.2	10:19.0	9:49.0	10:01.6	10:06.7	10:14.2	10:00.3		-	-	100%	3.68%	2.84%	7	45
+2	1470	Becca Book		Cat 1/2 Female	34	Female	1:02:46.9	1:49.3	9:51.8	10:04.3	10:03.6	10:11.6	10:12.8	10:33.5		+0:27.9	+0.75%	99.26%	2.97%	2.12%	7	-
+3	1475	Karine Valliant-Saunders	PNW Colavita Hellofresh	Cat 1/2 Female	43	Female	1:03:40.5	1:48.5	10:04.7	10:07.0	10:25.5	10:22.1	10:24.1	10:28.6		+1:21.5	+2.18%	97.87%	1.58%	0.72%	7	38
+4	1474	Malia Greening	PNW Colavita Hellofresh	Cat 1/2 Female	48	Female	1:03:51.3	1:50.0	10:23.6	10:13.8	10:09.2	10:29.7	10:37.2	10:07.8		+1:32.3	+2.47%	97.59%	1.31%	0.44%	7	34
+5	1468	Monilee Keller	Breakfast Racing Team	Cat 1/2 Female	46	Female	1:03:56.8	1:48.4	10:12.7	10:13.3	10:18.5	10:30.2	10:27.3	10:26.4		+1:37.8	+2.62%	97.45%	1.17%	0.30%	7	32
+6	1496	Julie Robertson Zivin	PNW Colavita Hellofresh	Cat 1/2 Female	54	Female	1:04:19.8	1:49.2	10:18.1	10:15.3	10:17.3	10:31.4	10:29.5	10:39.0		+2:00.8	+3.23%	96.87%	0.57%	-0.30%	7	28
+7	1466	Gina Estep	PNW Colavita Hellofresh	Cat 1/2 Female	50	Female	1:05:00.3	1:49.5	10:07.3	10:03.8	10:20.4	10:36.8	10:46.8	11:15.7		+2:41.3	+4.31%	95.86%	-0.47%	-1.35%	7	26
+8	1457	Jodi Duquette	Recycled Cycles Racing	Cat 1/2 Female	52	Female	1:06:18.3	1:50.2	10:19.8	10:18.2	10:45.7	10:57.2	11:06.1	11:01.1		+3:59.3	+6.40%	93.98%	-2.48%	-3.38%	7	-
+9	1459	Coral Ng	Spokeswomen Racing	Cat 1/2 Female	26	Female	1:06:26.1	1:49.5	10:11.0	10:44.6	10:37.4	10:59.1	11:01.0	11:03.5		+4:07.1	+6.61%	93.80%	-2.68%	-3.58%	7	-
+10	1467	Claire Law	Breakfast Racing Team	Cat 1/2 Female	35	Female	1:08:21.3	1:49.8	10:50.8	10:57.9	10:50.9	11:06.0	11:26.4	11:19.5		+6:02.3	+9.69%	91.17%	-5.65%	-6.57%	7	20
+11	1476	Mackenna Lees	Breakfast Racing Team	Cat 1/2 Female	27	Female	-1 lap	1:50.3	11:13.3	11:39.3	12:20.8	13:55.2	12:49.8	-		-	-	-	-	-	6	17
+																						
+		Cat 1/2 Female 40+																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Lap 7		Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	998	Kenda Super	PNW Colavita Hellofresh	Cat 1/2 Female 40+	47	Female	1:06:09.6	1:50.2	10:12.8	10:14.6	10:31.8	10:58.3	11:13.4	11:08.5		-	-	100%	4.17%	3.86%	7	-
+2	1703	Stacey Spencer		Cat 1/2 Female 40+	51	Female	1:08:48.8	1:50.1	10:26.3	10:51.3	11:04.8	11:27.9	11:35.2	11:33.2		+2:39.2	+4.01%	96.14%	0.33%	0.00%	7	-
+3	999	Joanna Mensher	Keller Rohrbach	Cat 1/2 Female 40+	45	Female	1:12:09.2	1:51.0	11:37.2	11:29.2	11:43.4	11:35.1	11:41.5	12:11.8		+5:59.6	+9.06%	91.69%	-4.51%	-4.85%	7	-
+4	995	Jodi Connolly	Black Sheep Velo	Cat 1/2 Female 40+	55	Female	-1 lap	1:50.7	10:34.5	11:06.4	11:34.2	12:29.5	14:45.7	-		-	-	-	-	-	6	-
+																						
+		Cat 1/2 Male																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Lap 7	Lap 8	Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	2	Kian Reid	Booger	Cat 1/2 Male	15	Male	1:01:30.3	0:22.4	8:35.7	8:33.6	8:42.1	8:58.0	8:50.0	8:53.2	8:35.3	-	-	100%	6.56%	5.33%	8	45
+2	34	Sterling Quinn		Cat 1/2 Male	30	Male	1:01:30.9	0:12.8	8:51.5	8:42.8	8:45.6	8:50.8	8:45.1	8:46.8	8:35.3	+0:00.6	+0.02%	99.98%	6.54%	5.32%	8	-
+3	48	Sam Owens		Cat 1/2 Male	36	Male	1:01:49.1	0:11.2	8:39.1	8:44.4	8:45.8	8:51.7	8:49.3	8:53.4	8:54.3	+0:18.8	+0.51%	99.49%	6.08%	4.85%	8	-
+4	49	Mark Severy	Premier Racing	Cat 1/2 Male	34	Male	1:02:23.9	0:10.5	8:32.7	8:44.8	8:46.1	8:57.1	8:51.8	8:52.0	9:28.9	+0:53.6	+1.45%	98.57%	5.20%	3.96%	8	34
+5	32	Aran Connolly	Booger	Cat 1/2 Male	16	Male	1:03:31.6	0:10.8	8:36.3	8:45.3	8:50.8	9:00.7	9:10.6	9:29.5	9:27.6	+2:01.3	+3.29%	96.82%	3.48%	2.22%	8	32
+6	31	Rhett Bates	Giant Canada Off-Road Team	Cat 1/2 Male	17	Male	1:03:48.2	0:12.4	8:39.5	8:51.1	9:03.4	9:23.4	9:14.2	9:17.5	9:06.7	+2:17.9	+3.74%	96.40%	3.06%	1.80%	8	-
+7	4	Keith Robinson	Hagens Berman	Cat 1/2 Male	38	Male	1:04:07.6	0:10.0	8:30.7	8:47.6	8:52.4	9:23.6	9:25.8	9:19.8	9:37.8	+2:37.3	+4.26%	95.91%	2.57%	1.30%	8	-
+8	35	Kacey Campbell	PPORDT	Cat 1/2 Male	33	Male	1:04:46.1	0:11.6	8:36.0	8:49.3	9:14.7	9:22.2	9:10.5	9:10.2	10:11.7	+3:15.8	+5.31%	94.96%	1.60%	0.31%	8	-
+9	7	Walker Bohannan		Cat 1/2 Male	31	Male	1:04:50.7	0:12.5	8:48.3	9:13.5	9:12.6	9:14.2	9:16.5	9:24.4	9:28.8	+3:20.4	+5.43%	94.85%	1.48%	0.19%	8	-
+10	5	Pete Groblewski	Keller Rohrbach	Cat 1/2 Male	44	Male	1:05:05.8	0:11.8	8:53.9	9:10.0	9:17.9	9:18.1	9:25.9	9:31.0	9:17.3	+3:35.5	+5.84%	94.48%	1.10%	-0.19%	8	-
+11	45	Noah Arling	Gene Johnson Cycling Team	Cat 1/2 Male	29	Male	1:05:45.6	0:11.8	9:10.9	9:16.0	9:12.2	9:22.2	9:23.5	9:19.2	9:49.8	+4:15.3	+6.92%	93.53%	0.09%	-1.21%	8	-
+12	3	John-Christian Flack	Olympia Endurance Sport Training	Cat 1/2 Male	54	Male	1:06:42.3	0:11.6	9:08.8	9:14.8	9:28.9	9:36.0	9:41.3	9:42.1	9:38.8	+5:12.0	+8.45%	92.20%	-1.35%	-2.67%	8	-
+13	6	John Reynders	A Cycling Team	Cat 1/2 Male	34	Male	1:08:05.1	0:13.2	9:08.0	9:09.0	9:17.5	9:38.8	10:17.3	10:18.9	10:02.5	+6:34.8	+10.70%	90.34%	-3.44%	-4.79%	8	-
+14	37	Casey Griesemer		Cat 1/2 Male	28	Male	1:08:31.4	0:15.9	9:15.3	9:32.3	9:48.3	9:52.2	9:53.4	9:49.8	10:04.3	+7:01.1	+11.41%	89.76%	-4.11%	-5.47%	8	-
+15	36	Jacob Soares	Booger	Cat 1/2 Male	17	Male	1:08:47.2	0:12.7	9:05.9	9:12.2	9:52.2	10:02.3	10:07.6	10:13.9	10:00.4	+7:16.9	+11.84%	89.41%	-4.51%	-5.87%	8	13
+16	8	John Butler	JRA Pb Yarrak.Cc	Cat 1/2 Male	29	Male	1:09:27.4	0:12.2	9:20.7	9:47.0	9:44.5	9:50.0	10:01.6	10:03.2	10:28.3	+7:57.1	+12.93%	88.55%	-5.53%	-6.90%	8	-
+17	1	Jaxon Williams	Booger	Cat 1/2 Male	14	Male	1:11:16.5	0:30.2	9:08.2	9:46.2	10:16.9	10:15.0	10:06.0	10:28.9	10:45.2	+9:46.2	+15.88%	86.29%	-8.29%	-9.70%	8	11
+18	33	Jackson Hsu	Booger	Cat 1/2 Male	15	Male	1:12:45.6	0:10.2	11:01.5	11:44.8	9:48.5	9:35.6	9:33.8	9:32.5	11:18.7	+11:15.3	+18.30%	84.53%	-10.54%	-11.99%	8	10
+19	50	Finn Westover	Booger	Cat 1/2 Male	17	Male	-1 lap	0:30.6	8:45.7	9:03.5	9:22.8	11:46.1	10:26.2	11:40.9	-	-	-	-	-	-	7	-
+20	44	Zor Keeler	Mercedes-Benz	Cat 1/2 Male	35	Male	-1 lap	0:14.5	9:46.9	10:03.2	10:32.5	10:39.7	11:11.8	11:35.0	-	-	-	-	-	-	7	-
+21	42	Rhys Haydon	Premier Racing	Cat 1/2 Male	38	Male	-1 lap	0:13.0	9:04.8	9:22.4	9:56.5	10:38.0	12:18.1	13:51.8	-	-	-	-	-	-	7	6
+																						
+		Cat 1/2 Male 40+																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Lap 7	Lap 8	Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	1701	Brendan Connolly	Black Sheep Velo	Cat 1/2 Male 40+	50	Male	1:03:37.1	0:49.2	7:25.1	8:50.6	8:59.4	9:01.1	9:15.0	9:16.7	10:00.0	-	-	100%	5.43%	4.30%	8	-
+2	1700	Steve Westover	Booger	Cat 1/2 Male 40+	50	Male	1:05:27.9	0:48.5	8:54.1	8:53.1	9:04.3	9:23.1	9:27.2	9:29.3	9:28.2	+1:50.8	+2.90%	97.18%	2.68%	1.53%	8	-
+3	1704	Brian Bressler		Cat 1/2 Male 40+	47	Male	1:06:06.9	0:48.8	8:50.7	8:50.9	9:03.5	9:14.1	9:27.7	9:37.0	10:14.2	+2:29.8	+3.92%	96.22%	1.72%	0.55%	8	-
+4	1677	James C Birkenbuel	Mighty	Cat 1/2 Male 40+	49	Male	1:06:26.2	0:49.3	8:52.0	9:09.6	9:31.6	9:22.7	9:37.8	9:37.5	9:25.7	+2:49.1	+4.43%	95.76%	1.24%	0.07%	8	-
+5	1702	Gary Tegantvoort	Montlake Bicycle Shop	Cat 1/2 Male 40+	41	Male	1:06:28.8	0:49.3	8:50.7	8:57.8	9:18.0	9:23.7	9:46.5	9:42.4	9:40.4	+2:51.7	+4.50%	95.70%	1.17%	0.00%	8	-
+6	1689	Trevor Davies	Taco Time NW Cycling Team	Cat 1/2 Male 40+	47	Male	1:07:55.2	0:50.1	9:14.8	9:40.9	9:29.3	9:37.6	9:46.0	9:35.8	9:40.8	+4:18.1	+6.76%	93.67%	-0.97%	-2.17%	8	-
+7	1680	Juan Carlos Ramirez	PCP Racing	Cat 1/2 Male 40+	49	Male	1:09:41.4	0:49.8	9:29.8	9:43.0	9:47.7	9:48.7	9:53.9	10:02.0	10:06.6	+6:04.3	+9.54%	91.29%	-3.60%	-4.83%	8	-
+8	528	Brian Burton		Cat 1/2 Male 40+	45	Male	1:09:50.5	0:48.9	9:32.7	9:52.2	9:49.2	9:47.8	9:54.4	10:11.7	9:53.6	+6:13.4	+9.78%	91.09%	-3.82%	-5.06%	8	-
+9	1699	Conrad Kornmann		Cat 1/2 Male 40+	46	Male	1:09:51.7	0:49.4	9:19.7	9:36.3	9:43.9	9:57.9	10:03.8	10:00.6	10:20.2	+6:14.6	+9.81%	91.06%	-3.85%	-5.09%	8	-
+10	1676	Kellen Rack		Cat 1/2 Male 40+	42	Male	-1 lap	0:50.5	9:44.0	9:47.7	10:06.7	10:20.7	10:23.3	10:28.0	-	-	-	-	-	-	7	-
+11	1684	Colin Ferguson		Cat 1/2 Male 40+	46	Male	-1 lap	0:52.1	10:09.1	10:14.2	10:08.6	10:02.0	10:13.6	10:02.8	-	-	-	-	-	-	7	-
+12	1691	Justin Piccorelli	Alki Velo Club	Cat 1/2 Male 40+	41	Male	-1 lap	0:50.9	9:56.0	10:27.0	10:54.2	10:54.1	11:08.9	10:49.3	-	-	-	-	-	-	7	-
+13	1705	Jonas Bakkane	Fell Swoop	Cat 1/2 Male 40+	49	Male	-1 lap	0:49.7	9:57.5	10:28.5	11:05.5	11:08.1	12:09.5	12:09.1	-	-	-	-	-	-	7	-
+																						
+		Cat 1/2 Male 50+																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6	Lap 7	Lap 8	Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	2203	Douglas Reid	Madshus/Rex/KV+	Cat 1/2 Male 50+	55	Male	1:05:05.9	1:21.0	9:04.5	8:54.4	9:02.0	9:08.6	9:16.3	9:18.6	9:00.5	-	-	100%	4.98%	5.66%	8	-
+2	2211	Chris Rodde	Black Sheep Velo	Cat 1/2 Male 50+	54	Male	1:06:42.6	1:19.6	9:06.0	9:10.0	9:16.7	9:22.4	9:27.2	9:32.8	9:27.9	+1:36.7	+2.48%	97.58%	2.63%	3.32%	8	41
+3	2244	Craig Undem	R4C	Cat 1/2 Male 50+	60	Male	1:07:53.0	1:19.9	9:06.9	9:09.0	9:16.2	9:55.2	9:45.1	9:41.7	9:39.0	+2:47.1	+4.28%	95.90%	0.92%	1.62%	8	-
+4	2202	Richard Mcclung	Booger	Cat 1/2 Male 50+	58	Male	1:07:59.4	1:19.6	9:15.8	9:25.0	9:27.0	9:37.2	9:33.7	9:35.3	9:45.7	+2:53.5	+4.44%	95.75%	0.76%	1.47%	8	-
+5	2249	Alasdair Turner	Black Sheep Velo	Cat 1/2 Male 50+	50	Male	1:08:49.3	1:19.2	9:15.4	9:18.5	9:26.4	9:37.8	9:54.2	9:55.8	10:02.1	+3:43.4	+5.72%	94.59%	-0.45%	0.26%	8	32
+6	2246	Nikos Mills	Dropbar Racing	Cat 1/2 Male 50+	57	Male	1:09:10.9	1:20.7	9:30.9	9:32.0	9:26.8	9:34.0	9:48.4	9:54.3	10:03.8	+4:05.0	+6.27%	94.10%	-0.98%	-0.26%	8	28
+7	2240	Gregory Kauper	Dropbar Racing	Cat 1/2 Male 50+	55	Male	1:09:16.3	1:20.7	9:31.8	9:29.1	9:33.9	9:39.5	9:45.1	10:01.7	9:54.5	+4:10.4	+6.41%	93.98%	-1.11%	-0.39%	8	26
+8	2234	Dwaine Trummert		Cat 1/2 Male 50+	53	Male	1:09:28.2	1:19.9	9:25.5	9:37.2	9:38.9	9:49.6	9:53.4	9:57.8	9:45.9	+4:22.3	+6.72%	93.71%	-1.40%	-0.68%	8	-
+9	2221	Jonathan Castrodale		Cat 1/2 Male 50+	55	Male	1:09:40.1	1:19.3	9:02.9	9:40.3	9:40.4	9:48.0	10:11.8	9:51.6	10:05.7	+4:34.2	+7.02%	93.44%	-1.69%	-0.97%	8	-
+10	2248	Andrew Lynch	Gene Johnson Cycling Team	Cat 1/2 Male 50+	53	Male	1:11:01.1	1:20.2	9:31.2	9:32.9	9:53.9	10:07.0	10:03.0	10:12.4	10:20.6	+5:55.2	+9.09%	91.66%	-3.66%	-2.92%	8	-
+11	2220	Peter Benarcik	Five Ply Design | Ridgecrest Racing	Cat 1/2 Male 50+	53	Male	-1 lap	1:19.2	9:44.5	9:49.1	9:58.6	10:01.5	10:13.4	10:33.8	-	-	-	-	-	-	7	-
+12	2236	David Karman		Cat 1/2 Male 50+	57	Male	-1 lap	1:21.2	9:38.0	10:26.7	10:01.6	9:57.8	10:09.8	10:11.5	-	-	-	-	-	-	7	-
+13	2247	Ewan Alexander	Fount Cycling Guild	Cat 1/2 Male 50+	51	Male	-1 lap	1:20.6	9:40.4	9:44.7	10:06.0	10:11.8	10:27.0	10:27.1	-	-	-	-	-	-	7	-
+14	2201	Chris Adolf	Dropbar Racing	Cat 1/2 Male 50+	61	Male	-1 lap	1:20.7	9:40.3	10:16.2	10:04.9	10:13.5	10:10.6	10:29.6	-	-	-	-	-	-	7	14
+15	2250	Christopher Fast	Black Sheep Velo	Cat 1/2 Male 50+	57	Male	-1 lap	1:21.4	9:53.3	10:06.8	10:07.5	10:12.6	10:20.0	10:19.2	-	-	-	-	-	-	7	13
+16	2239	Forrest Murphy	Black Sheep Velo	Cat 1/2 Male 50+	52	Male	-1 lap	1:20.2	10:16.8	10:12.8	10:25.5	10:16.8	10:34.3	10:38.8	-	-	-	-	-	-	7	12
+17	2204	Todd Tucker		Cat 1/2 Male 50+	52	Male	-4 laps	1:19.7	9:02.9	9:28.0	9:42.7	-	-	-	-	-	-	-	-	-	4	-
+																						
+		Cat 3 Female																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6			Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	1579	Stella Bressler	Booger	Cat 3 Female	16	Female	52:18.3	0:09.4	10:10.3	10:16.5	10:20.8	10:27.2	10:54.1			-	-	100%	7.00%	7.19%	6	45
+2	1603	Elly West	PNW Colavita Hellofresh	Cat 3 Female	37	Female	53:42.7	0:12.6	10:06.8	10:23.5	10:50.8	10:58.2	11:10.8			+1:24.4	+2.69%	97.38%	4.50%	4.69%	6	41
+3	1578	Keaghlan Robinson	NWCX Project	Cat 3 Female	15	Female	54:17.4	0:08.4	10:26.0	10:41.6	10:52.0	10:59.7	11:09.7			+1:59.1	+3.80%	96.34%	3.47%	3.67%	6	-
+4	1623	Frances Sun	Breakfast Racing Team	Cat 3 Female	37	Female	54:37.3	0:12.1	10:40.7	10:46.8	11:02.1	10:46.4	11:09.2			+2:19.0	+4.43%	95.76%	2.88%	3.08%	6	34
+5	1604	Brooke Bates	Okanagan Bike Ans Ski	Cat 3 Female	14	Female	55:29.2	0:09.8	10:42.8	10:35.8	11:05.3	11:32.2	11:23.3			+3:10.9	+6.08%	94.27%	1.35%	1.55%	6	-
+6	1577	Sally Moore	Breakfast Racing Team	Cat 3 Female	44	Female	55:56.7	0:09.9	11:16.7	11:12.5	11:05.4	11:08.0	11:04.2			+3:38.4	+6.96%	93.49%	0.53%	0.73%	6	28
+7	1622	Olivia Brown	Unavita Racing	Cat 3 Female	39	Female	56:46.2	0:11.6	11:20.1	11:19.4	11:52.9	10:50.7	11:11.5			+4:27.9	+8.54%	92.13%	-0.93%	-0.73%	6	-
+8	1580	Poppy Knorr	Black Sheep Velo	Cat 3 Female	19	Female	57:25.5	0:11.1	10:51.2	11:15.5	11:31.1	11:59.6	11:37.0			+5:07.2	+9.79%	91.08%	-2.10%	-1.89%	6	-
+9	1621	Diane Zaida	PNW Colavita Hellofresh	Cat 3 Female	36	Female	57:49.7	0:11.7	10:58.9	11:31.5	11:28.3	11:53.5	11:45.8			+5:31.4	+10.56%	90.45%	-2.82%	-2.61%	6	22
+10	1576	Meg Skidmore	Hella Mello Racing	Cat 3 Female	39	Female	58:11.1	0:11.6	11:03.2	11:09.4	11:52.0	11:28.5	12:26.4			+5:52.8	+11.24%	89.89%	-3.45%	-3.24%	6	-
+11	1625	Vermont Berk	Booger	Cat 3 Female	16	Female	58:23.3	0:10.2	11:07.4	11:39.2	11:40.5	12:00.6	11:45.4			+6:05.0	+11.63%	89.58%	-3.81%	-3.60%	6	17
+12	1624	Hailey Colwell	Breakfast Racing Team	Cat 3 Female	30	Female	59:58.5	0:11.8	11:07.6	11:27.5	12:11.9	12:30.6	12:29.1			+7:40.2	+14.66%	87.21%	-6.63%	-6.42%	6	16
+																						
+		Cat 3 Male																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6			Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	265	Mark Laughery	A Cycling Team	Cat 3 Male	36	Male	45:44.0	0:08.5	8:55.2	8:55.8	9:05.1	9:14.1	9:25.3			-	-	100%	8.52%	7.03%	6	45
+2	178	Ricky Lyman		Cat 3 Male	34	Male	47:06.0	0:10.5	9:19.8	9:11.5	9:11.4	9:30.7	9:42.1			+1:22.0	+2.99%	97.10%	5.79%	4.25%	6	-
+3	249	Jim Labayen	Ride For Racial Justice	Cat 3 Male	29	Male	47:08.0	0:09.5	9:14.3	9:16.7	9:23.3	9:35.3	9:28.9			+1:24.0	+3.06%	97.03%	5.72%	4.18%	6	-
+4	255	Josh Sherfey	Organic Gnar Harvest	Cat 3 Male	28	Male	47:17.0	0:09.1	9:20.1	9:26.1	9:32.4	9:23.3	9:26.0			+1:33.0	+3.39%	96.72%	5.42%	3.88%	6	-
+5	177	Alec Burks	High Vibrations	Cat 3 Male	34	Male	47:56.0	0:08.2	9:09.3	9:22.4	9:43.2	9:48.0	9:44.9			+2:12.0	+4.81%	95.41%	4.12%	2.56%	6	-
+6	257	Greg Miller	Bob Miller Foundation	Cat 3 Male	38	Male	48:37.0	0:08.5	9:26.8	9:24.3	9:31.5	9:48.9	10:17.0			+2:53.0	+6.30%	94.07%	2.75%	1.17%	6	-
+7	236	Finn West	A Cycling Team	Cat 3 Male	27	Male	48:41.0	0:09.4	9:28.4	9:50.1	9:37.0	9:41.4	9:54.7			+2:57.0	+6.45%	93.94%	2.62%	1.03%	6	26
+8	234	Ryan Dennison	Mercedes	Cat 3 Male	32	Male	49:00.0	0:09.9	9:27.6	9:28.1	10:21.4	9:44.0	9:49.0			+3:16.0	+7.14%	93.33%	1.99%	0.39%	6	-
+9	242	John Monnig	Mercedes-Benz	Cat 3 Male	33	Male	49:07.0	0:09.2	9:26.8	9:44.5	9:52.4	9:52.8	10:01.3			+3:23.0	+7.40%	93.11%	1.75%	0.15%	6	-
+10	253	Brandon King	B2C2	Cat 3 Male	31	Male	49:16.0	0:08.6	9:21.0	9:37.5	9:52.3	10:12.0	10:04.6			+3:32.0	+7.73%	92.83%	1.45%	-0.15%	6	-
+11	176	Nate Hansen	Wenatchee Valley Devo	Cat 3 Male	25	Male	49:35.0	0:10.4	9:27.9	9:41.9	9:52.1	10:18.6	10:04.1			+3:51.0	+8.42%	92.24%	0.82%	-0.80%	6	-
+12	243	Kevin Merkling	Hagens Berman	Cat 3 Male	37	Male	49:36.0	0:08.7	9:24.0	9:43.2	9:56.2	10:04.4	10:19.5			+3:52.0	+8.45%	92.20%	0.79%	-0.83%	6	-
+13	256	Xiaohan Zhang	A Cycling Team	Cat 3 Male	34	Male	51:30.0	0:09.4	9:52.7	10:03.2	10:15.7	10:29.9	10:39.1			+5:46.0	+12.61%	88.80%	-3.01%	-4.69%	6	15
+14	264	Randy Yao	Gene Johnson Cycling Team	Cat 3 Male	35	Male	52:51.0	0:09.3	10:04.7	10:25.8	10:39.3	10:50.9	10:41.0			+7:07.0	+15.56%	86.53%	-5.71%	-7.44%	6	14
+15	261	Caleb Giesbrecht		Cat 3 Male	25	Male	52:52.0	0:10.7	10:22.7	10:29.4	10:21.5	10:56.7	10:31.0			+7:08.0	+15.60%	86.51%	-5.75%	-7.47%	6	-
+16	260	Zachary Simon	Gene Johnson Cycling Team	Cat 3 Male	31	Male	53:52.0	0:10.9	10:25.1	10:33.4	10:36.1	11:03.5	11:03.0			+8:08.0	+17.78%	84.90%	-7.75%	-9.50%	6	12
+17	259	Cody Young	Recycled Cycles Racing	Cat 3 Male	33	Male	54:09.0	0:09.2	10:15.0	10:35.4	10:42.0	11:15.4	11:12.0			+8:25.0	+18.40%	84.46%	-8.31%	-10.08%	6	-
+18	251	Jack Campbell	Booger	Cat 3 Male	16	Male	55:36.0	0:10.2	10:08.0	10:31.7	11:19.6	10:41.5	12:45.0			+9:52.0	+21.57%	82.25%	-11.21%	-13.03%	6	-
+19	262	Patrick Adrian	Grit City Health	Cat 3 Male	37	Male	-1 lap	0:01.0	10:00.0	10:00.0	10:00.0	11:59.0	-			-	-	-	-	-	5	-
+20	263	Daniel Skinner		Cat 3 Male	35	Male	-1 lap	0:12.0	11:05.8	11:36.6	11:38.6	11:51.0	-			-	-	-	-	-	5	-
+21	254	Kenneth Ho		Cat 3 Male	44	Male	-5 laps	0:10.4	-	-	-	-	-			-	-	-	-	-	1	-
+-	258	Clark Smithson	Tenspeed Hero	Cat 3 Male	38	Male	DNS									-	-	-	-	-	0	5
+																						
+		Cat 3 Male 40+																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6			Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	2121	Garrett Ianacone	CBC Racing/Country Green Turf Farms	Cat 3 Male 40+	47	Male	47:59.0	0:44.4	9:45.5	9:27.9	9:17.4	9:16.8	9:27.0			-	-	100%	8.30%	8.18%	6	-
+2	2113	Justin Captis	Premier Racing	Cat 3 Male 40+	47	Male	48:25.0	0:41.6	9:15.1	9:29.1	9:31.2	9:36.0	9:52.0			+0:26.0	+0.90%	99.10%	7.47%	7.35%	6	-
+3	2154	Tyler Free	Liquid Velo	Cat 3 Male 40+	44	Male	48:47.0	0:43.8	9:45.5	9:25.8	9:42.1	9:36.9	9:32.9			+0:48.0	+1.67%	98.36%	6.77%	6.65%	6	38
+4	2150	Brendan McMahan	Black Sheep Velo	Cat 3 Male 40+	46	Male	48:51.0	0:42.3	9:33.0	9:39.1	9:33.2	9:43.9	9:39.5			+0:52.0	+1.81%	98.23%	6.65%	6.52%	6	34
+5	2085	PJ Bauser	Ten Speed Hero	Cat 3 Male 40+	43	Male	49:01.0	0:43.5	9:39.2	9:25.8	9:37.2	9:50.9	9:44.4			+1:02.0	+2.15%	97.89%	6.33%	6.20%	6	-
+6	2198	Justin Widlund	Form & Data	Cat 3 Male 40+	45	Male	49:34.0	0:42.6	9:31.7	9:38.7	9:43.8	9:54.1	10:03.1			+1:35.0	+3.30%	96.81%	5.28%	5.15%	6	-
+7	2120	Mike Rolcik	Taco Time Northwest Cycling Team	Cat 3 Male 40+	54	Male	49:42.0	0:43.1	9:45.2	9:43.6	9:48.1	9:54.3	9:47.7			+1:43.0	+3.58%	96.55%	5.02%	4.90%	6	26
+8	2077	Mathew Seguin	Unavita Racing	Cat 3 Male 40+	44	Male	50:10.0	0:45.9	10:10.5	9:48.7	9:51.9	9:57.1	9:35.9			+2:11.0	+4.55%	95.65%	4.13%	4.00%	6	24
+9	2079	William Kingman	Cascadia Wheel Co. Dirt Team	Cat 3 Male 40+	42	Male	50:17.0	0:41.5	9:31.8	9:55.5	10:02.9	10:09.0	9:56.3			+2:18.0	+4.79%	95.43%	3.91%	3.78%	6	22
+10	2151	Andrew Lamb	Dyna Racing	Cat 3 Male 40+	49	Male	50:19.0	0:42.6	9:20.2	9:41.4	9:59.9	10:19.6	10:15.3			+2:20.0	+4.86%	95.36%	3.84%	3.72%	6	-
+11	2196	Alden Kroll	Black Sheep Velo	Cat 3 Male 40+	41	Male	50:44.0	0:47.1	9:53.4	9:51.1	9:50.7	10:17.9	10:03.8			+2:45.0	+5.73%	94.58%	3.05%	2.92%	6	17
+12	2082	Benjamin Smith		Cat 3 Male 40+	48	Male	50:45.0	0:45.3	9:53.0	9:55.6	9:58.1	9:58.5	10:14.5			+2:46.0	+5.77%	94.55%	3.02%	2.89%	6	-
+13	2138	Jesse Favia		Cat 3 Male 40+	42	Male	51:01.0	0:43.6	9:39.4	9:49.5	10:19.3	10:17.3	10:11.9			+3:02.0	+6.32%	94.05%	2.51%	2.38%	6	-
+14	2148	Joseph Thomas	Taco Time Northwest Cycling Team	Cat 3 Male 40+	52	Male	51:34.0	0:43.7	9:47.2	9:55.5	10:24.1	10:08.5	10:35.0			+3:35.0	+7.47%	93.05%	1.45%	1.32%	6	14
+15	2146	Rainer Leuschke	Black Sheep Velo	Cat 3 Male 40+	52	Male	51:36.0	0:46.2	10:20.6	10:06.2	10:11.3	10:06.7	10:05.0			+3:37.0	+7.54%	92.99%	1.39%	1.26%	6	13
+16	2147	Jason Hansen	Cascadia Wheel Co. Dirt Team	Cat 3 Male 40+	46	Male	51:56.0	0:42.3	9:56.3	10:04.7	10:17.5	10:22.2	10:33.0			+3:57.0	+8.23%	92.39%	0.75%	0.62%	6	12
+17	2076	Todd Tourville	Taco Time Northwest Cycling Team	Cat 3 Male 40+	47	Male	52:05.0	0:43.2	9:53.0	10:05.5	10:25.3	10:36.0	10:22.0			+4:06.0	+8.54%	92.13%	0.47%	0.33%	6	11
+18	2139	Justin Merle		Cat 3 Male 40+	45	Male	52:26.0	0:49.0	10:26.9	10:09.3	10:11.4	10:23.4	10:26.0			+4:27.0	+9.27%	91.51%	-0.20%	-0.33%	6	-
+18	2140	Glenn Soja	PCP Racing	Cat 3 Male 40+	47	Male	52:26.0	0:42.4	9:58.3	10:00.4	10:09.0	10:04.9	11:31.0			+4:27.0	+9.27%	91.51%	-0.20%	-0.33%	6	-
+20	2081	Kevin Rusch		Cat 3 Male 40+	48	Male	52:43.0	0:45.9	10:22.2	10:11.5	10:26.5	10:24.9	10:32.0			+4:44.0	+9.86%	91.02%	-0.74%	-0.88%	6	-
+21	2086	Nigel Stuke	Organic Gnar Harvest	Cat 3 Male 40+	40	Male	53:00.0	0:45.0	10:14.5	10:15.2	10:26.0	10:39.3	10:40.0			+5:01.0	+10.46%	90.53%	-1.28%	-1.42%	6	-
+22	2084	Sven Koehler	Recycled Cycles Racing	Cat 3 Male 40+	52	Male	53:38.0	0:47.2	10:26.0	10:28.6	10:32.8	10:49.4	10:34.0			+5:39.0	+11.77%	89.47%	-2.49%	-2.63%	6	5
+23	2153	Brian Free	Liquid Velo	Cat 3 Male 40+	47	Male	53:54.0	0:43.1	10:46.3	10:28.5	10:28.3	10:46.8	10:41.0			+5:55.0	+12.33%	89.02%	-3.00%	-3.14%	6	4
+24	2141	Matt Beers		Cat 3 Male 40+	42	Male	54:04.0	0:43.3	10:11.5	10:32.6	10:47.7	10:58.9	10:50.0			+6:05.0	+12.68%	88.75%	-3.32%	-3.46%	6	-
+25	2149	Jeff Cota	Grit City Health	Cat 3 Male 40+	47	Male	54:11.0	0:42.2	9:54.2	10:11.8	10:25.0	10:10.8	12:47.0			+6:12.0	+12.92%	88.56%	-3.55%	-3.68%	6	-
+26	2145	James (Kris) Sherwood		Cat 3 Male 40+	45	Male	54:22.0	0:48.5	10:48.4	10:29.2	10:38.2	11:00.7	10:37.0			+6:23.0	+13.30%	88.26%	-3.90%	-4.03%	6	-
+27	2078	John Stambaugh	Alki Rubicon	Cat 3 Male 40+	49	Male	54:45.0	0:44.5	10:05.7	10:46.8	10:50.6	11:03.4	11:14.0			+6:46.0	+14.10%	87.64%	-4.63%	-4.77%	6	-
+28	2087	Andrea Bogni	Recycled Cycles Racing	Cat 3 Male 40+	42	Male	55:10.0	0:44.8	9:45.7	10:09.0	10:20.6	12:51.9	11:18.0			+7:11.0	+14.97%	86.98%	-5.42%	-5.57%	6	2
+29	2199	Luke Smaul		Cat 3 Male 40+	43	Male	55:16.0	0:45.9	10:30.0	10:44.9	10:59.5	11:11.7	11:04.0			+7:17.0	+15.18%	86.82%	-5.62%	-5.76%	6	-
+30	2080	Dustin Shaffer	Fell Swoop	Cat 3 Male 40+	40	Male	55:29.0	0:46.8	10:36.3	10:37.9	10:56.8	11:03.2	11:28.0			+7:30.0	+15.63%	86.48%	-6.03%	-6.17%	6	-
+31	2152	Joe Skokan	Union Bay Cycling Team/Gerk's Bicycles	Cat 3 Male 40+	55	Male	55:48.0	0:44.6	10:58.6	10:50.7	11:00.2	10:55.9	11:18.0			+7:49.0	+16.29%	85.99%	-6.64%	-6.78%	6	-
+32	2083	Clive Pursehouse		Cat 3 Male 40+	49	Male	55:59.0	0:43.5	10:22.2	10:54.4	11:13.0	11:22.9	11:23.0			+8:00.0	+16.67%	85.71%	-6.99%	-7.13%	6	-
+33	1903	Todd Anderson		Cat 3 Male 40+	61	Male	56:26.0	0:45.3	10:26.3	10:47.3	10:59.8	11:27.3	12:00.0			+8:27.0	+17.61%	85.03%	-7.85%	-7.99%	6	-
+34	2134	Brian Johnson	Hagens Berman	Cat 3 Male 40+	48	Male	56:46.0	0:46.2	10:34.1	10:49.1	11:18.9	11:45.7	11:32.0			+8:47.0	+18.30%	84.53%	-8.48%	-8.63%	6	-
+35	548	Svend Sorensen		Cat 3 Male 40+	45	Male	-1 lap	0:47.9	10:51.2	10:36.5	10:50.4	10:53.0	-			-	-	-	-	-	5	-
+36	2144	Adam Wujick	Taco Time Northwest Cycling Team	Cat 3 Male 40+	49	Male	-1 lap	0:47.6	10:43.7	11:21.9	11:20.9	11:52.9	-			-	-	-	-	-	5	1
+37	2142	Jeff Beers	Unavita Racing	Cat 3 Male 40+	64	Male	-1 lap	0:47.8	11:21.2	11:11.0	11:24.8	11:38.2	-			-	-	-	-	-	5	1
+38	2200	Mark Young	Booger	Cat 3 Male 40+	48	Male	-1 lap	0:45.5	10:55.1	11:05.9	11:37.6	12:48.9	-			-	-	-	-	-	5	-
+39	2136	Michael Pruitt	Machete Squad P/B Goblin Mode	Cat 3 Male 40+	52	Male	-1 lap	0:47.0	11:21.5	11:40.0	12:54.6	12:40.9	-			-	-	-	-	-	5	-
+40	2135	Joshua Melanson	Daisy's Pet Grooming	Cat 3 Male 40+	44	Male	-5 laps	0:45.4	-	-	-	-	-			-	-	-	-	-	1	-
+																						
+		Cat 3/4 Female 40+																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6			Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	1897	Kristi Berg	Bicycle Centres	Cat 3/4 Female 40+	47	Female	58:32.0	1:27.4	11:23.6	11:17.0	11:22.0	11:31.1	11:30.9			-	-	100%	2.42%	0.79%	6	-
+2	1876	Sabrina Hirsch		Cat 3/4 Female 40+	41	Female	58:54.1	1:27.4	11:15.5	11:22.0	11:31.3	11:39.1	11:38.8			+0:22.1	+0.63%	99.37%	1.80%	0.16%	6	-
+3	1907	Lara Sirois	Black Sheep Velo	Cat 3/4 Female 40+	48	Female	58:54.7	1:26.7	11:21.2	11:16.6	11:52.5	11:33.2	11:24.5			+0:22.7	+0.65%	99.36%	1.78%	0.15%	6	38
+4	1909	Amy Betz	Black Sheep Velo	Cat 3/4 Female 40+	47	Female	58:59.9	1:27.1	11:44.5	11:34.1	11:30.9	11:14.8	11:28.5			+0:27.9	+0.79%	99.21%	1.64%	0.00%	6	34
+5	1877	Kristin Campbell	Just Giver 4 PD	Cat 3/4 Female 40+	49	Female	59:56.9	1:27.9	11:53.4	11:37.9	11:38.2	11:51.3	11:28.2			+1:24.9	+2.42%	97.64%	0.06%	-1.61%	6	-
+6	1904	Hannah McCabe	Grit City Health	Cat 3/4 Female 40+	39	Female	1:00:07.6	1:26.1	11:43.1	11:24.9	11:45.7	11:51.7	11:56.1			+1:35.6	+2.72%	97.35%	-0.24%	-1.91%	6	28
+7	1900	Molly Foster	Gene Johnson Cycling Team	Cat 3/4 Female 40+	41	Female	1:04:27.3	1:26.3	11:57.0	12:22.4	12:50.7	13:03.3	12:47.6			+5:55.3	+10.12%	90.81%	-7.46%	-9.25%	6	-
+8	1878	Franny Connolly	Black Sheep Velo	Cat 3/4 Female 40+	44	Female	-1 lap	1:27.8	12:15.8	12:18.4	12:56.2	13:28.6	-			-	-	-	-	-	5	24
+9	1905	Nicole McVarish		Cat 3/4 Female 40+	41	Female	-1 lap	1:28.6	12:56.4	12:26.9	12:37.5	12:58.1	-			-	-	-	-	-	5	-
+10	1906	Sarah Hansen	Cascadia Wheel Co. Factory Team	Cat 3/4 Female 40+	44	Female	-1 lap	1:28.2	12:18.7	12:35.7	12:53.9	13:14.4	-			-	-	-	-	-	5	-
+11	1351	Kat Meckle	PCP Racing	Cat 3/4 Female 40+	46	Female	-1 lap	1:27.7	12:57.1	13:12.6	12:43.0	12:54.7	-			-	-	-	-	-	5	-
+12	1901	Eva Wong	Black Sheep Velo	Cat 3/4 Female 40+	47	Female	-1 lap	1:28.7	12:35.2	13:20.6	13:13.2	13:07.8	-			-	-	-	-	-	5	16
+13	1910	Anita Lam		Cat 3/4 Female 40+	49	Female	-1 lap	1:28.8	12:48.7	13:35.3	13:34.5	13:18.9	-			-	-	-	-	-	5	-
+14	1925	Sara Rigel	Black Sheep Velo	Cat 3/4 Female 40+	47	Female	-1 lap	1:28.5	12:46.0	13:30.0	13:56.9	14:20.0	-			-	-	-	-	-	5	14
+15	1908	Melissa Lee Johnston Cota	Grit City Health	Cat 3/4 Female 40+	49	Female	-1 lap	1:31.2	15:09.3	15:49.3	16:22.5	16:50.5	-			-	-	-	-	-	5	13
+																						
+		Cat 3/4 Female 50+																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6			Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	1377	Jodie Ramey	PNW Colavita Hellofresh	Cat 3/4 Female 50+	56	Female	1:01:42.7	1:51.4	11:53.3	11:24.1	12:27.5	11:55.4	12:11.0			-	-	100%	1.07%	1.07%	6	-
+2	1371	Andrea Leuschke	Black Sheep Velo	Cat 3/4 Female 50+	52	Female	1:03:02.9	1:52.1	11:50.6	12:18.9	12:08.3	12:20.5	12:32.5			+1:20.2	+2.17%	97.88%	-1.07%	-1.07%	6	-
+3	1376	Andrea Mohrle	Country Green Turf Farms	Cat 3/4 Female 50+	54	Female	-1 lap	1:54.3	12:37.0	12:29.4	12:38.3	12:55.0	-			-	-	-	-	-	5	-
+4	1375	Carrie Morris		Cat 3/4 Female 50+	59	Female	-1 lap	1:52.7	12:35.9	12:42.2	12:41.6	12:58.2	-			-	-	-	-	-	5	-
+																						
+		Cat 3/4 Female 60+																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6			Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	326	Jitka Cole	Liquid Velo	Cat 3/4 Female 60+	62	Female	59:55.5	2:07.4	11:20.5	11:11.0	11:37.6	11:38.7	12:00.3			-	-	100%	4.63%	6.53%	6	-
+2	336	Carol Johnson	Gregg's Trek	Cat 3/4 Female 60+	65	Female	1:04:06.5	2:08.2	12:12.3	12:25.9	12:23.5	12:30.4	12:26.2			+4:11.0	+6.98%	93.47%	-2.03%	0.00%	6	-
+3	346	Lee Smith	PNW Colavita Hellofresh	Cat 3/4 Female 60+	67	Female	1:04:28.4	2:07.9	12:08.7	12:29.6	12:23.3	12:32.0	12:46.9			+4:32.9	+7.59%	92.95%	-2.61%	-0.57%	6	-
+4	339	Vicky Spring		Cat 3/4 Female 60+	70	Female	-1 lap	2:09.1	12:06.2	12:27.4	12:57.8	12:44.5	-			-	-	-	-	-	5	-
+5	329	Kate Oliver		Cat 3/4 Female 60+	64	Female	-1 lap	2:10.8	16:30.8	15:22.6	14:52.1	14:52.2	-			-	-	-	-	-	5	-
+																						
+		Cat 4 Female																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6			Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	1980	Yelisaveta Topchaniuk	WMBC Bellingham	Cat 4 Female	24	Female	57:47.0	2:27.6	10:53.5	11:01.9	10:55.5	11:11.8	11:16.7			-	-	100%	4.99%	5.73%	6	-
+2	2011	Cydney Kronlund		Cat 4 Female	38	Female	1:00:24.4	2:29.8	11:52.5	11:27.2	11:21.3	11:39.7	11:33.9			+2:37.4	+4.54%	95.66%	0.68%	1.45%	6	-
+3	2008	Chaya Rothschild	Montlake Bicycle Shop	Cat 4 Female	32	Female	1:02:11.3	2:28.4	11:39.6	11:32.3	11:41.8	11:51.1	12:58.1			+4:24.3	+7.62%	92.92%	-2.25%	-1.45%	6	-
+4	1922	Leah Missik	Breakfast Racing Team	Cat 4 Female	33	Female	1:02:53.9	2:28.3	11:52.8	12:02.4	12:05.6	12:20.5	12:04.3			+5:06.9	+8.85%	91.87%	-3.42%	-2.61%	6	34
+5	1979	Madilynn Garcia	Stamina Racing Collective	Cat 4 Female	30	Female	-1 lap	2:29.4	12:12.2	12:22.5	13:07.8	13:13.2	-			-	-	-	-	-	5	-
+6	1981	Shannon Carroll		Cat 4 Female	28	Female	-1 lap	2:30.5	12:22.6	12:36.5	12:55.0	13:02.3	-			-	-	-	-	-	5	-
+7	2024	Carly Galbraith	Alki Velo Club	Cat 4 Female	39	Female	-1 lap	2:28.9	12:47.2	12:40.2	12:44.7	12:54.8	-			-	-	-	-	-	5	-
+8	1977	Paige Holden	NWCX Project	Cat 4 Female	11	Female	-1 lap	2:28.0	12:28.6	12:30.9	12:57.6	13:40.2	-			-	-	-	-	-	5	24
+9	1978	Holly Faccenda		Cat 4 Female	31	Female	-1 lap	2:30.0	12:47.1	12:41.1	13:19.6	13:02.2	-			-	-	-	-	-	5	-
+10	1926	D'arcy McGrath	Breakfast Racing Team	Cat 4 Female	56	Female	-1 lap	2:30.9	13:13.1	13:43.3	13:34.0	13:44.5	-			-	-	-	-	-	5	20
+11	1976	Charlotte Westover	NWCX Project	Cat 4 Female	13	Female	-1 lap	2:27.6	12:44.9	14:10.9	13:54.1	14:03.7	-			-	-	-	-	-	5	17
+12	2012	Stephanie Schildt	Breakfast Racing Team	Cat 4 Female	30	Female	-1 lap	2:29.9	13:14.5	13:34.4	15:37.2	13:46.1	-			-	-	-	-	-	5	16
+13	2020	Samantha Yeung	Spokeswomen Racing	Cat 4 Female	33	Female	-1 lap	2:31.4	14:33.0	15:22.2	15:09.9	15:27.0	-			-	-	-	-	-	5	-
+14	1928	Shannon Nardi	Grit City Health	Cat 4 Female	29	Female	-3 laps	2:32.6	17:41.4	19:49.8	-	-	-			-	-	-	-	-	3	-
+																						
+		Cat 4 Male																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5				Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	562	Ian Hansen	Wenatchee Valley Devo	Cat 4 Male	17	Male	37:51.8	0:12.4	9:16.0	9:21.1	9:24.8	9:37.5				-	-	100%	13.15%	12.46%	5	45
+2	675	John Monnig	Mercedes-Benz	Cat 4 Male	33	Male	38:22.7	0:11.4	9:23.5	9:25.9	9:34.2	9:47.7				+0:30.9	+1.36%	98.66%	11.97%	11.27%	5	41
+3	750	Ronan Kroll	Booger	Cat 4 Male	13	Male	38:34.6	0:12.8	9:08.6	9:39.2	9:50.4	9:43.6				+0:42.8	+1.88%	98.15%	11.51%	10.81%	5	38
+4	667	Lincoln Harris	Husky Cycling	Cat 4 Male	28	Male	39:05.8	0:12.3	9:42.3	9:35.2	9:43.2	9:52.8				+1:14.0	+3.26%	96.85%	10.32%	9.61%	5	-
+5	563	Riley Regalado	Cascade Bicycle Studio	Cat 4 Male	23	Male	39:16.8	0:15.5	9:40.1	9:51.1	9:46.7	9:43.4				+1:25.0	+3.74%	96.39%	9.90%	9.18%	5	-
+6	670	Alex Rice	Hagens Berman	Cat 4 Male	34	Male	40:14.8	0:13.5	9:45.5	10:09.3	9:54.8	10:11.7				+2:23.0	+6.29%	94.08%	7.68%	6.95%	5	28
+7	659	Jeff Evans	CBC Racing/Country Green Turf Farms	Cat 4 Male	49	Male	40:22.0	0:15.3	9:52.2	9:51.5	10:03.0	10:20.0				+2:30.2	+6.61%	93.80%	7.41%	6.67%	5	-
+8	555	Michael Klipfel		Cat 4 Male	35	Male	40:28.2	0:13.0	9:54.3	10:08.5	10:02.5	10:09.9				+2:36.4	+6.88%	93.56%	7.17%	6.43%	5	-
+9	674	Parker Stanford	Booger	Cat 4 Male	19	Male	41:07.3	0:16.6	10:08.7	10:16.5	10:24.3	10:01.2				+3:15.5	+8.61%	92.08%	5.68%	4.92%	5	22
+10	672	Nigel Stuke	Organic Gnar Harvest	Cat 4 Male	40	Male	41:14.1	0:14.7	10:19.0	10:08.1	10:15.4	10:16.9				+3:22.3	+8.90%	91.82%	5.42%	4.66%	5	20
+11	554	Lee Sackett	Guardian Angel	Cat 4 Male	34	Male	42:12.7	0:13.2	10:18.2	10:30.1	10:44.6	10:26.6				+4:20.9	+11.48%	89.70%	3.18%	2.40%	5	-
+12	663	Nathan Holmes		Cat 4 Male	50	Male	42:13.7	0:16.2	10:25.9	10:23.8	10:45.9	10:21.9				+4:21.9	+11.53%	89.66%	3.14%	2.37%	5	-
+13	677	Benjamin Siler		Cat 4 Male	35	Male	42:15.6	0:14.2	10:26.6	10:12.9	10:36.9	10:45.0				+4:23.8	+11.61%	89.60%	3.07%	2.29%	5	-
+14	673	Skyler Schwendeman	Taco Time Northwest Cycling Team	Cat 4 Male	25	Male	42:54.6	0:14.2	10:31.3	10:43.8	10:49.6	10:35.7				+5:02.8	+13.33%	88.24%	1.57%	0.79%	5	14
+15	559	Scott Fowler	Booger	Cat 4 Male	49	Male	43:00.1	0:18.3	10:33.2	10:44.1	10:46.0	10:38.5				+5:08.3	+13.57%	88.05%	1.36%	0.58%	5	13
+16	564	Evan Smith		Cat 4 Male	39	Male	43:01.1	0:16.1	10:43.9	10:47.3	10:36.5	10:37.3				+5:09.3	+13.61%	88.02%	1.33%	0.54%	5	-
+17	664	Todd Detweiler	Recycled Cycles Racing	Cat 4 Male	30	Male	43:03.6	0:16.9	10:42.1	10:40.3	10:45.8	10:38.5				+5:11.8	+13.72%	87.93%	1.23%	0.44%	5	-
+18	660	Jeremy Eckert	A Cycling Team	Cat 4 Male	44	Male	43:26.6	0:12.6	10:32.1	10:44.0	10:50.1	11:07.8				+5:34.8	+14.74%	87.16%	0.35%	-0.44%	5	10
+19	557	Noah Meckle	PCP Racing	Cat 4 Male	18	Male	43:33.4	0:13.8	10:30.8	10:20.1	11:11.7	11:17.0				+5:41.6	+15.04%	86.93%	0.09%	-0.71%	5	-
+20	681	Alex Pherribo	Mercedes-Benz	Cat 4 Male	33	Male	43:48.8	0:12.2	10:39.2	10:40.1	10:59.0	11:18.3				+5:57.0	+15.71%	86.42%	-0.50%	-1.30%	5	8
+21	662	Daniel Kornmann	Booger	Cat 4 Male	16	Male	44:01.7	0:18.8	11:18.0	10:56.7	10:42.2	10:46.0				+6:09.9	+16.28%	86.00%	-0.99%	-1.80%	5	6
+22	665	Billy Cundiff	Country Green Turf Farms	Cat 4 Male	32	Male	44:56.2	0:16.1	10:50.8	11:07.3	11:26.7	11:15.3				+7:04.4	+18.68%	84.26%	-3.07%	-3.90%	5	-
+23	668	Levi Hamilton	Samlon-Illa	Cat 4 Male	22	Male	44:57.9	0:12.6	10:28.7	11:29.9	11:25.6	11:21.1				+7:06.1	+18.76%	84.21%	-3.14%	-3.96%	5	-
+24	551	Philip Darringer		Cat 4 Male	50	Male	45:07.6	0:19.9	11:19.3	10:56.4	11:15.0	11:17.0				+7:15.8	+19.18%	83.90%	-3.51%	-4.34%	5	-
+25	669	Will Tabor	Grit City Health	Cat 4 Male	30	Male	45:17.4	0:17.8	10:52.3	11:11.3	11:19.1	11:36.9				+7:25.6	+19.61%	83.60%	-3.88%	-4.71%	5	-
+26	561	Rob Hansen	Wenatchee Valley Devo	Cat 4 Male	49	Male	45:40.4	0:16.9	11:19.6	11:20.8	11:26.9	11:16.2				+7:48.6	+20.63%	82.90%	-4.76%	-5.60%	5	2
+27	676	Bobby Manson		Cat 4 Male	35	Male	45:51.9	0:14.3	10:41.2	11:53.6	11:29.2	11:33.6				+8:00.1	+21.13%	82.55%	-5.20%	-6.04%	5	-
+28	748	Manbir Sandhu	Mandhu5	Cat 4 Male	35	Male	47:28.4	0:19.6	11:31.1	10:59.7	13:05.8	11:32.2				+9:36.6	+25.38%	79.76%	-8.89%	-9.76%	5	-
+29	749	Bradley Dyer	Organic Gnar Harvest	Cat 4 Male	32	Male	47:51.3	0:14.9	10:49.5	11:45.1	12:27.4	12:34.4				+9:59.5	+26.39%	79.12%	-9.77%	-10.64%	5	2
+30	683	Dominik Haja		Cat 4 Male	31	Male	48:13.0	0:18.5	11:39.9	11:45.8	12:15.3	12:13.5				+10:21.2	+27.34%	78.53%	-10.60%	-11.48%	5	-
+31	658	Tim Bond	Taco Time Northwest Cycling Team	Cat 4 Male	35	Male	48:15.2	0:17.2	12:13.6	11:49.1	11:45.6	12:09.7				+10:23.4	+27.44%	78.47%	-10.68%	-11.56%	5	1
+32	565	Marvin Quinzon	Gene Johnson Cycling Team	Cat 4 Male	36	Male	48:16.7	0:19.3	12:13.3	12:00.7	11:52.4	11:51.0				+10:24.9	+27.51%	78.43%	-10.74%	-11.62%	5	-
+33	679	Jonathan Mccurdy	Drop Bar Army	Cat 4 Male	32	Male	49:52.8	0:17.5	12:12.9	11:53.2	12:27.7	13:01.5				+12:01.0	+31.74%	75.91%	-14.41%	-15.33%	5	-
+34	680	Tim Waterhouse		Cat 4 Male	37	Male	50:17.7	0:17.2	12:08.8	12:32.1	12:41.3	12:38.3				+12:25.9	+32.83%	75.28%	-15.37%	-16.28%	5	-
+35	558	Nick Fowler	Booger	Cat 4 Male	16	Male	-1 lap	0:17.3	11:36.0	12:55.2	13:47.7	-				-	-	-	-	-	4	1
+36	560	Thomas Montovani		Cat 4 Male	30	Male	-1 lap	0:17.0	12:39.3	13:29.3	13:13.5	-				-	-	-	-	-	4	-
+37	552	David Wolf		Cat 4 Male	39	Male	-1 lap	0:16.8	13:01.5	13:44.3	13:01.9	-				-	-	-	-	-	4	-
+38	556	Andy Foltz	Hagens Berman	Cat 4 Male	39	Male	-1 lap	0:20.5	13:21.4	13:55.5	14:20.0	-				-	-	-	-	-	4	1
+39	682	Daniel Stewart		Cat 4 Male	31	Male	-1 lap	0:19.7	14:15.3	14:56.3	15:15.8	-				-	-	-	-	-	4	-
+40	684	Basil Fedorchenko		Cat 4 Male	42	Male	-2 laps	0:14.0	10:15.3	10:08.9	-	-				-	-	-	-	-	3	-
+41	666	Aviv Litov	A Cycling Team	Cat 4 Male	25	Male	-4 laps	0:11.7	-	-	-	-				-	-	-	-	-	1	0
+42	678	Jamison Anton	Fount Cycling Guild	Cat 4 Male	33	Male	-4 laps	0:13.6	-	-	-	-				-	-	-	-	-	1	-
+-	661	Kevin Durdle		Cat 4 Male	42	Male	DNS									-	-	-	-	-	0	0
+																						
+		Cat 4 Male 40+																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5				Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	56	Simon Weiss	RAD Racing	Cat 4 Male 40+	42	Male	40:35.2	0:11.5	9:44.0	10:07.4	10:21.2	10:11.1				-	-	100%	9.14%	8.14%	5	-
+2	118	Craig Martin	Fell Swoop	Cat 4 Male 40+	49	Male	40:51.8	0:14.4	10:09.3	10:03.5	10:10.3	10:14.3				+0:16.6	+0.68%	99.32%	8.52%	7.51%	5	-
+3	123	Thomas Schulz	Country Green Turf Farms	Cat 4 Male 40+	52	Male	41:39.5	0:14.2	10:39.0	10:15.0	10:17.6	10:13.7				+1:04.3	+2.64%	97.43%	6.75%	5.71%	5	-
+4	52	David Meffe		Cat 4 Male 40+	48	Male	42:14.8	0:13.8	10:19.3	10:31.8	10:40.6	10:29.3				+1:39.6	+4.09%	96.07%	5.43%	4.38%	5	-
+5	125	Josh Vose	Fount Cycling Guild	Cat 4 Male 40+	46	Male	42:19.2	0:11.2	10:02.8	10:13.0	11:31.0	10:21.2				+1:44.0	+4.27%	95.90%	5.26%	4.22%	5	-
+6	69	Brian Marr	Booger	Cat 4 Male 40+	48	Male	42:58.7	0:12.3	10:32.5	10:50.0	10:49.1	10:34.8				+2:23.5	+5.89%	94.44%	3.79%	2.73%	5	-
+7	93	Jon Rehkopf	Alki Velo Club	Cat 4 Male 40+	48	Male	43:06.0	0:13.8	10:11.6	10:51.0	10:58.1	10:51.5				+2:30.8	+6.19%	94.17%	3.52%	2.45%	5	26
+8	88	Allen Chao		Cat 4 Male 40+	49	Male	43:36.2	0:12.4	10:21.7	10:49.2	11:11.1	11:01.8				+3:01.0	+7.43%	93.08%	2.39%	1.31%	5	-
+9	114	Ben Galbraith	Alki Velo Club	Cat 4 Male 40+	42	Male	44:06.5	0:13.4	10:27.9	10:58.4	11:20.2	11:06.6				+3:31.3	+8.68%	92.02%	1.26%	0.17%	5	22
+10	90	Michael Westover		Cat 4 Male 40+	46	Male	44:11.0	0:15.7	10:57.2	10:50.1	11:18.9	10:49.1				+3:35.8	+8.86%	91.86%	1.09%	0.00%	5	-
+11	104	Svend Sorensen		Cat 4 Male 40+	45	Male	44:11.7	0:14.7	11:12.1	10:52.1	11:12.7	10:40.1				+3:36.5	+8.89%	91.84%	1.07%	-0.03%	5	-
+12	124	Zach Varnell	Grit City Health	Cat 4 Male 40+	42	Male	44:48.3	0:12.5	10:55.0	11:11.4	11:22.7	11:06.7				+4:13.1	+10.39%	90.59%	-0.30%	-1.41%	5	-
+13	57	Andrew Gray		Cat 4 Male 40+	41	Male	45:19.8	0:13.1	10:52.8	11:20.3	11:38.0	11:15.6				+4:44.6	+11.69%	89.54%	-1.47%	-2.60%	5	-
+14	91	Charlie Katica	Hagens Berman	Cat 4 Male 40+	44	Male	46:21.6	0:15.1	10:57.0	11:09.8	12:11.9	11:47.8				+5:46.4	+14.22%	87.55%	-3.78%	-4.93%	5	-
+15	54	Sven-Erik Nielsen		Cat 4 Male 40+	41	Male	46:43.0	0:16.8	11:24.4	11:13.6	11:45.3	12:02.9				+6:07.8	+15.10%	86.88%	-4.58%	-5.73%	5	-
+16	92	Lang Nelson		Cat 4 Male 40+	49	Male	47:00.6	0:15.0	11:11.4	11:48.5	11:59.5	11:46.2				+6:25.4	+15.83%	86.34%	-5.23%	-6.40%	5	-
+17	67	Matt Willis		Cat 4 Male 40+	44	Male	48:32.6	0:16.6	11:28.9	12:02.4	12:22.4	12:22.3				+7:57.4	+19.60%	83.61%	-8.67%	-9.87%	5	-
+18	108	Tim West		Cat 4 Male 40+	48	Male	48:33.6	0:17.8	11:49.6	11:43.8	12:22.2	12:20.2				+7:58.4	+19.65%	83.58%	-8.70%	-9.91%	5	-
+19	122	Scott Werden		Cat 4 Male 40+	49	Male	51:35.4	0:16.4	11:50.9	13:08.0	13:39.0	12:41.1				+11:00.2	+27.11%	78.67%	-15.49%	-16.76%	5	-
+20	119	Allen Bergeron		Cat 4 Male 40+	45	Male	-2 laps	0:15.9	12:38.7	12:58.8	-	-				-	-	-	-	-	3	-
+21	55	Adam Ales		Cat 4 Male 40+	42	Male	-2 laps	0:14.3	12:39.6	13:05.3	-	-				-	-	-	-	-	3	-
+22	53	Basil Fedorchenko		Cat 4 Male 40+	42	Male	-4 laps	0:13.6	-	-	-	-				-	-	-	-	-	1	-
+																						
+		Cat 4 Male 50+																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5				Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	1001	Craig Goodmansen	Mcleod Construction	Cat 4 Male 50+	53	Male	41:45.5	0:46.8	10:20.9	10:00.1	10:13.6	10:24.1				-	-	100%	8.47%	8.71%	5	45
+2	1088	George Mount		Cat 4 Male 50+	50	Male	42:22.6	0:46.2	10:06.6	10:20.0	10:37.8	10:32.0				+0:37.1	+1.48%	98.54%	7.12%	7.36%	5	-
+3	1080	Erik Johnson	Grit City Health	Cat 4 Male 50+	52	Male	42:29.4	0:47.6	10:26.0	10:22.0	10:34.8	10:19.0				+0:43.9	+1.75%	98.28%	6.87%	7.11%	5	-
+4	1090	Brian Palen		Cat 4 Male 50+	52	Male	42:47.3	0:46.4	10:24.5	10:35.0	10:37.6	10:23.8				+1:01.8	+2.47%	97.59%	6.21%	6.46%	5	-
+5	1147	Mike Vanorden	Alki Velo Club	Cat 4 Male 50+	55	Male	42:57.3	0:45.3	10:17.8	10:33.6	10:42.5	10:38.1				+1:11.8	+2.87%	97.21%	5.85%	6.09%	5	32
+6	1081	Ben Wolf	Alki Rubicon	Cat 4 Male 50+	54	Male	43:17.3	0:47.2	10:13.6	10:53.0	10:44.8	10:38.7				+1:31.8	+3.66%	96.47%	5.12%	5.36%	5	-
+7	1146	Stephen Tolzman	Alki Velo Club	Cat 4 Male 50+	53	Male	43:38.4	0:45.9	10:28.5	10:40.7	10:53.7	10:49.6				+1:52.9	+4.51%	95.69%	4.35%	4.59%	5	26
+8	1087	Michael Clyde	Solidbrown	Cat 4 Male 50+	59	Male	43:39.9	0:46.8	10:27.3	10:48.6	10:52.5	10:44.7				+1:54.4	+4.57%	95.63%	4.29%	4.54%	5	-
+9	1142	Cameron Janes	Dyna Racing	Cat 4 Male 50+	50	Male	44:07.9	0:45.6	10:21.1	10:49.0	11:16.5	10:55.7				+2:22.4	+5.68%	94.62%	3.27%	3.52%	5	-
+10	1077	Warland Wight	Gene Johnson Cycling Team	Cat 4 Male 50+	53	Male	44:34.1	0:46.8	10:54.0	10:51.1	11:10.2	10:52.0				+2:48.6	+6.73%	93.70%	2.31%	2.57%	5	-
+11	1149	Philip Darringer		Cat 4 Male 50+	50	Male	44:57.8	0:49.2	11:02.2	10:48.2	11:10.7	11:07.5				+3:12.3	+7.68%	92.87%	1.45%	1.70%	5	-
+12	1082	Greg Gizinski	Chainslap Racing	Cat 4 Male 50+	55	Male	45:44.5	0:50.2	11:11.0	11:06.9	11:14.2	11:22.2				+3:59.0	+9.54%	91.29%	-0.26%	0.00%	5	-
+13	1085	Timothy Leary	Mcleod Construction	Cat 4 Male 50+	51	Male	46:18.1	0:47.7	10:55.7	11:21.0	11:52.1	11:21.6				+4:32.6	+10.88%	90.19%	-1.49%	-1.22%	5	15
+14	1083	Harrison Magun	Apex Racing	Cat 4 Male 50+	54	Male	46:20.1	0:48.2	11:02.7	11:28.5	11:34.6	11:26.1				+4:34.6	+10.96%	90.12%	-1.56%	-1.30%	5	-
+15	1091	Peter Brown		Cat 4 Male 50+	56	Male	46:57.4	0:49.0	11:22.7	11:26.9	11:45.6	11:33.2				+5:11.9	+12.45%	88.93%	-2.92%	-2.66%	5	-
+16	1079	Neil Calissendorff	Thrillarita	Cat 4 Male 50+	58	Male	47:03.7	0:50.9	11:43.4	11:28.9	11:25.5	11:35.0				+5:18.2	+12.70%	88.73%	-3.15%	-2.89%	5	-
+17	1092	Justin Pearson		Cat 4 Male 50+	51	Male	47:22.1	0:49.8	11:35.7	11:19.2	11:55.7	11:41.7				+5:36.6	+13.43%	88.16%	-3.82%	-3.56%	5	-
+18	1093	Brad Loetel	Five Ply Design | Ridgecrest Racing	Cat 4 Male 50+	53	Male	47:35.7	0:48.7	11:24.1	11:33.8	11:55.7	11:53.4				+5:50.2	+13.98%	87.74%	-4.32%	-4.05%	5	-
+19	1150	Thomas Hardersen		Cat 4 Male 50+	52	Male	47:40.4	0:47.1	11:26.4	11:43.5	11:41.8	12:01.6				+5:54.9	+14.16%	87.59%	-4.49%	-4.22%	5	-
+20	1002	Jim Lykins	Misfits	Cat 4 Male 50+	59	Male	47:56.5	0:51.1	11:40.9	11:30.3	11:56.6	11:57.6				+6:11.0	+14.81%	87.10%	-5.08%	-4.81%	5	-
+21	1095	Carianne Meyers	Taco Time Northwest Cycling Team	Cat 4 Male 50+	53	Female	48:25.6	0:50.5	12:17.5	11:56.9	11:32.9	11:47.8				+6:40.1	+15.97%	86.23%	-6.14%	-5.87%	5	6
+22	1089	Tim Knudson		Cat 4 Male 50+	58	Male	49:35.9	0:46.4	11:39.9	12:06.5	12:21.4	12:41.7				+7:50.4	+18.77%	84.19%	-8.71%	-8.43%	5	-
+23	1094	Lee Brunz		Cat 4 Male 50+	54	Male	51:43.4	0:51.6	12:05.7	12:55.1	13:07.5	12:43.5				+9:57.9	+23.86%	80.73%	-13.37%	-13.08%	5	-
+24	1084	Robert Rice	Hagens Berman Racing	Cat 4 Male 50+	57	Male	-1 lap	0:48.9	10:49.0	10:52.1	12:15.4	-				-	-	-	-	-	4	-
+25	1003	Arthur Brummett	Taco Time Northwest Cycling Team	Cat 4 Male 50+	51	Male	-1 lap	0:49.6	11:49.7	12:06.4	14:53.3	-				-	-	-	-	-	4	2
+26	1078	Sean Cissell	Mr. Crampy's	Cat 4 Male 50+	57	Male	-3 laps	0:49.2	11:47.0	-	-	-				-	-	-	-	-	2	-
+																						
+		Cat 4 Male 60+																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5				Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	1526	Jeffrey Prendergast		Cat 4 Male 60+	60	Male	45:21.2	1:24.4	10:59.6	10:55.3	11:02.0	10:59.9				-	-	100%	2.45%	2.02%	5	-
+2	1554	Jay Hatter		Cat 4 Male 60+	65	Male	45:47.8	1:23.2	10:59.1	10:59.9	11:06.0	11:19.6				+0:26.6	+0.98%	99.03%	1.49%	1.07%	5	-
+3	1555	Chris Gerard	Unavita Racing	Cat 4 Male 60+	61	Male	45:58.5	1:24.0	11:02.3	11:05.0	11:04.0	11:23.2				+0:37.3	+1.37%	98.65%	1.11%	0.68%	5	-
+4	1528	Peter Krautwald	Five Ply Design | Ridgecrest Racing	Cat 4 Male 60+	61	Male	46:17.4	1:23.2	11:14.0	11:07.4	11:19.4	11:13.4				+0:56.2	+2.07%	97.98%	0.43%	0.00%	5	-
+5	1086	Jim Hansen		Cat 4 Male 60+	71	Male	46:21.3	1:24.1	11:14.7	11:28.8	11:07.9	11:05.8				+1:00.1	+2.21%	97.84%	0.29%	-0.14%	5	-
+6	1552	Eric Norris	Grooveback Racing	Cat 4 Male 60+	60	Male	46:50.8	1:22.5	11:01.2	11:21.1	11:30.4	11:35.6				+1:29.6	+3.29%	96.81%	-0.77%	-1.20%	5	-
+7	1527	Joseph Zito		Cat 4 Male 60+	62	Male	48:49.0	1:25.0	11:42.4	11:41.7	12:01.0	11:58.9				+3:27.8	+7.64%	92.91%	-5.00%	-5.46%	5	-
+8	1575	John Sullivan		Cat 4 Male 60+	63	Male	-3 laps	1:24.3	13:52.3	-	-	-				-	-	-	-	-	2	-
+																						
+		Clydesdale Male 200+																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5				Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	1856	Zachary Simon	Gene Johnson Cycling Team	Clydesdale Male 200+	31	Male	43:05.6	0:50.3	10:27.2	10:35.7	10:37.1	10:35.3				-	-	100%	6.33%	5.48%	5	45
+2	1827	Jeff- Evans	NUUN	Clydesdale Male 200+	51	Male	43:34.2	0:50.8	10:40.0	10:35.5	10:48.0	10:39.9				+0:28.6	+1.11%	98.91%	5.30%	4.44%	5	-
+3	1872	Brad Cox	Gene Johnson Cycling Team	Clydesdale Male 200+	47	Male	44:03.7	0:51.9	10:47.9	10:41.2	10:54.9	10:47.8				+0:58.1	+2.25%	97.80%	4.23%	3.36%	5	38
+4	1871	Benjamin Di Qual		Clydesdale Male 200+	44	Male	44:18.6	0:50.5	10:47.1	10:51.7	10:47.7	11:01.6				+1:13.0	+2.82%	97.25%	3.69%	2.81%	5	-
+5	1828	Jim Bowes	Suck It	Clydesdale Male 200+	52	Male	45:35.6	0:51.0	10:56.9	11:10.9	11:18.0	11:18.8				+2:30.0	+5.80%	94.52%	0.90%	0.00%	5	-
+6	1826	David McIntosh		Clydesdale Male 200+	58	Male	46:55.2	0:50.8	10:57.2	11:23.8	11:50.0	11:53.4				+3:49.6	+8.88%	91.84%	-1.98%	-2.91%	5	-
+7	1874	Lance Simanek	Gene Johnson Cycling Team	Clydesdale Male 200+	51	Male	47:54.0	0:53.4	11:24.3	11:46.7	11:57.4	11:52.2				+4:48.4	+11.15%	89.97%	-4.11%	-5.06%	5	26
+8	1857	Sean Rosendahl		Clydesdale Male 200+	33	Male	48:30.1	0:53.1	11:43.2	11:54.1	11:57.8	12:01.9				+5:24.5	+12.55%	88.85%	-5.42%	-6.38%	5	-
+9	1875	Shawn Peerson	Unavita Racing	Clydesdale Male 200+	53	Male	50:06.7	0:53.0	11:53.8	12:10.7	12:26.3	12:42.9				+7:01.1	+16.29%	85.99%	-8.92%	-9.91%	5	-
+10	1858	Steve Townsend	Country Green Turf Farms	Clydesdale Male 200+	57	Male	-1 lap	0:52.4	12:16.9	12:54.6	12:57.8	-				-	-	-	-	-	4	-
+11	1869	Matt Ehrenstrom		Clydesdale Male 200+	41	Male	-3 laps	0:51.7	10:08.5	-	-	-				-	-	-	-	-	2	-
+																						
+		High School Female																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4					Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	1450	Myla Doane		High School Female	15	Female	35:12.0	0:12.3	10:58.9	11:50.8	12:10.0					-	-	100%	0.00%	0.00%	4	-
+2	1427	Kathryn Holmes	Booger	High School Female	16	Female	-1 lap	0:15.0	22:43.7	13:54.9	-					-	-	-	-	-	3	-
+																						
+		High School Male																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4					Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	1401	Zeev Loetel	Five Ply Design | Ridgecrest Racing	High School Male	14	Male	31:18.3	0:11.6	10:01.4	10:15.6	10:49.7					-	-	100%	3.06%	3.42%	4	-
+2	1448	Daniel Kornmann	Booger	High School Male	16	Male	32:24.8	0:13.4	10:40.5	10:46.2	10:44.7					+1:06.5	+3.54%	96.58%	-0.37%	0.00%	4	-
+3	1429	Oscar Smith	2020 Fuel	High School Male	16	Male	33:09.8	0:12.6	10:54.0	10:58.0	11:05.2					+1:51.5	+5.94%	94.40%	-2.69%	-2.31%	4	-
+4	1428	Luka Meckle	PCP Racing	High School Male	15	Male	-1 lap	12:11.9	13:16.6	14:25.7	-					-	-	-	-	-	3	-
+																						
+		Male Single Speed																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6			Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	535	Garrett Sczechowski	PCP Racing	Male Single Speed	30	Male	46:55.9	0:49.7	8:51.2	9:11.9	9:23.3	9:20.8	9:19.0			-	-	100%	11.33%	11.25%	6	-
+2	526	Charlie Burns	Basalt Bikes | Cripple Creek BC	Male Single Speed	32	Male	47:08.8	0:50.2	9:03.0	9:28.6	9:16.2	9:23.4	9:07.4			+0:12.9	+0.46%	99.54%	10.93%	10.84%	6	-
+3	549	Nolan Adams	Dyna Racing	Male Single Speed	37	Male	47:47.8	0:57.0	9:43.8	9:09.3	9:28.2	9:07.0	9:22.5			+0:51.9	+1.84%	98.19%	9.70%	9.62%	6	-
+4	471	Brent Hartwig	Homegrown Racing	Male Single Speed	36	Male	47:56.6	0:51.6	9:27.1	9:18.2	9:23.4	9:20.5	9:35.8			+1:00.7	+2.16%	97.89%	9.42%	9.34%	6	-
+5	468	Emil Hillding		Male Single Speed	46	Male	48:01.5	0:50.9	9:29.7	9:22.9	9:26.9	9:25.8	9:25.3			+1:05.6	+2.33%	97.72%	9.27%	9.18%	6	-
+6	358	Rhys Haydon	Premier Racing	Male Single Speed	38	Male	50:36.4	0:50.5	9:19.7	9:27.6	9:51.3	10:34.7	10:32.6			+3:40.5	+7.83%	92.74%	4.39%	4.30%	6	-
+7	512	Alex Walker		Male Single Speed	42	Male	51:04.6	0:53.1	9:54.3	9:57.6	9:55.8	10:05.2	10:18.6			+4:08.7	+8.83%	91.88%	3.50%	3.41%	6	-
+8	542	Kip Carleton	Pizza Pals	Male Single Speed	37	Male	51:04.7	0:53.7	9:58.2	9:49.0	10:02.3	10:05.7	10:15.8			+4:08.8	+8.84%	91.88%	3.50%	3.41%	6	24
+9	537	William Taplin	Cascadia Wheel Co. Dirt Team	Male Single Speed	36	Male	52:17.6	0:51.4	9:47.6	10:00.2	10:21.2	10:34.7	10:42.5			+5:21.7	+11.42%	89.75%	1.21%	1.11%	6	-
+10	420	Blaine Felton	Alki Velo Club	Male Single Speed	40	Male	52:52.9	0:50.0	10:02.3	10:11.1	10:21.8	10:49.7	10:38.0			+5:57.0	+12.68%	88.75%	0.09%	0.00%	6	-
+11	513	Noah Arling	Gene Johnson Cycling Team	Male Single Speed	29	Male	53:28.2	0:52.8	10:18.0	10:12.8	11:05.2	10:32.5	10:26.9			+6:32.3	+13.93%	87.77%	-1.02%	-1.11%	6	-
+12	543	Ben Storrar		Male Single Speed	45	Male	53:43.0	0:52.6	9:49.9	10:12.5	10:40.0	11:07.3	11:00.7			+6:47.1	+14.46%	87.37%	-1.48%	-1.58%	6	-
+13	466	Kevin Shinn	Pizza Pals	Male Single Speed	32	Male	55:40.1	0:55.2	10:42.5	10:46.1	10:46.1	11:01.6	11:28.6			+8:44.2	+18.62%	84.31%	-5.17%	-5.27%	6	15
+14	500	Donovan Ramirez	Booger	Male Single Speed	17	Male	56:12.8	0:51.6	10:17.6	11:02.0	11:09.4	11:34.3	11:17.9			+9:16.9	+19.78%	83.49%	-6.20%	-6.30%	6	-
+15	354	Levi Hamilton	Salmon-Illa	Male Single Speed	22	Male	57:30.6	0:56.1	10:28.7	10:31.4	11:09.4	11:44.5	12:40.5			+10:34.7	+22.54%	81.61%	-8.65%	-8.75%	6	13
+16	469	Brian Myers	HODALA!!!	Male Single Speed	45	Male	57:43.3	0:49.7	9:57.1	11:58.9	11:39.9	10:47.1	12:30.6			+10:47.4	+22.99%	81.31%	-9.05%	-9.15%	6	12
+17	544	Frank Chemotti		Male Single Speed	40	Male	58:12.5	0:56.0	10:52.4	11:27.7	11:44.9	11:33.3	11:38.2			+11:16.6	+24.03%	80.63%	-9.97%	-10.07%	6	-
+18	506	Steven Moe		Male Single Speed	51	Male	58:24.3	0:53.4	11:20.8	11:38.0	11:26.9	11:32.7	11:32.5			+11:28.4	+24.45%	80.36%	-10.34%	-10.44%	6	-
+19	470	Anthony Fogelstrom	Pizza Pals	Male Single Speed	38	Male	59:00.2	0:55.8	10:27.2	10:42.1	11:55.3	12:18.9	12:40.9			+12:04.3	+25.72%	79.54%	-11.47%	-11.58%	6	9
+20	356	Michael Pruitt	Machete Squad P/B Goblin Mode	Male Single Speed	52	Male	-1 lap	0:55.0	11:18.7	11:24.2	11:47.6	12:56.5	-			-	-	-	-	-	5	8
+21	545	Franklin Hammond	Pizza Pals	Male Single Speed	37	Male	-1 lap	0:54.3	11:12.1	12:15.9	12:59.3	12:09.7	-			-	-	-	-	-	5	6
+22	355	Ben Atkinson		Male Single Speed	44	Male	-1 lap	0:54.2	11:09.9	12:00.5	12:41.7	13:03.2	-			-	-	-	-	-	5	-
+23	351	Christopher Gay	HODALA!!!	Male Single Speed	53	Male	-1 lap	0:53.9	11:31.5	12:10.2	12:49.1	12:45.3	-			-	-	-	-	-	5	4
+24	538	Jim Bowes	Suck It	Male Single Speed	52	Male	-1 lap	0:55.4	11:37.6	11:51.2	12:32.3	14:14.9	-			-	-	-	-	-	5	-
+25	529	Aidan Pruitt	Machete Squad P/B Goblin Mode	Male Single Speed	22	Male	-1 lap	0:53.2	13:14.7	14:12.9	14:30.8	14:18.5	-			-	-	-	-	-	5	2
+26	357	Michael Klipfel	Salmon-Illa	Male Single Speed	35	Male	-3 laps	0:56.5	10:27.6	10:20.6	-	-	-			-	-	-	-	-	3	2
+27	353	John Reynders	TEAM SPORTS	Male Single Speed	34	Male	-3 laps	0:52.6	10:47.9	12:27.8	-	-	-			-	-	-	-	-	3	-
+28	465	Evander Kniestedt	CBC Racing/Country Green Turf Farms	Male Single Speed	32	Male	-4 laps	0:55.4	12:40.9	-	-	-	-			-	-	-	-	-	2	-
+29	467	Fred Marshall		Male Single Speed	34	Male	-4 laps	12:42.4	24:35.4	-	-	-	-			-	-	-	-	-	2	-
+30	352	Dylan Bonsell	Evil Bikes	Male Single Speed	32	Male	-5 laps	0:52.7	-	-	-	-	-			-	-	-	-	-	1	-
+																						
+		Middle School Female																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4					Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	1640	Vera Mensher	Keller Rohrbach	Middle School Female	12	Female	38:43.1	0:54.9	11:59.6	12:32.7	13:15.9					-	-	100%	7.78%	5.43%	4	-
+2	1629	Caroline McConnell	Capital City MTB	Middle School Female	11	Female	40:13.6	0:54.8	13:11.4	12:50.6	13:16.8					+1:30.5	+3.90%	96.25%	4.19%	1.75%	4	-
+3	1669	Paige Holden	NWCX Project	Middle School Female	11	Female	40:20.7	0:55.3	12:55.9	13:11.1	13:18.4					+1:37.6	+4.20%	95.97%	3.91%	1.46%	4	38
+4	1658	Kelina Bechtel	NWCX Project	Middle School Female	48	Female	40:29.4	0:55.9	13:02.6	13:15.8	13:15.1					+1:46.3	+4.58%	95.62%	3.56%	1.10%	4	34
+5	1660	Clara Bakkane	NWCX Project	Middle School Female	14	Female	41:23.6	0:55.7	13:15.7	13:29.6	13:42.6					+2:40.5	+6.91%	93.54%	1.41%	-1.10%	4	32
+6	1672	Charlotte Westover	NWCX Project	Middle School Female	13	Female	44:18.1	0:57.3	13:53.7	14:05.1	15:22.0					+5:35.0	+14.42%	87.40%	-5.52%	-8.21%	4	28
+7	1671	Ora Monton	Booger	Middle School Female	12	Female	45:03.4	0:57.0	13:14.4	15:35.6	15:16.4					+6:20.3	+16.37%	85.93%	-7.32%	-10.05%	4	-
+8	1659	Quinnlyn McMahan	Black Sheep Velo	Middle School Female	11	Female	45:20.9	0:55.0	14:07.6	14:41.4	15:36.9					+6:37.8	+17.12%	85.38%	-8.01%	-10.76%	4	-
+9	1627	Riley Galbraith	Alki Velo Club	Middle School Female	13	Female	-1 lap	0:59.0	14:32.5	15:12.9	-					-	-	-	-	-	3	-
+10	1646	Sarah Lynch	NWCX Project	Middle School Female	13	Female	-1 lap	1:01.5	14:04.3	15:55.8	-					-	-	-	-	-	3	20
+11	1642	Natalie Wujick	NWCX Project	Middle School Female	12	Female	-1 lap	0:58.5	14:32.9	16:17.3	-					-	-	-	-	-	3	-
+12	1654	Hazel Baker		Middle School Female	11	Female	-1 lap	1:07.0	17:18.3	18:16.7	-					-	-	-	-	-	3	-
+13	1639	Emily Keller	Breakfast Racing Team	Middle School Female	13	Female	-1 lap	1:00.3	17:21.9	18:31.8	-					-	-	-	-	-	3	-
+																						
+		Middle School Male																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4					Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	1657	Ronan Kroll	Booger	Middle School Male	13	Male	30:21.9	0:51.5	9:42.3	9:51.4	9:56.7					-	-	100%	17.99%	14.79%	4	45
+2	1628	Nils Stevenson	Booger	Middle School Male	11	Male	32:47.9	0:51.6	10:27.1	10:41.2	10:48.0					+2:26.0	+8.01%	92.58%	11.41%	7.96%	4	41
+3	1656	Sidney Magun	Booger	Middle School Male	12	Male	33:19.0	0:53.9	10:39.4	10:33.2	11:12.5					+2:57.1	+9.72%	91.14%	10.01%	6.51%	4	38
+4	1675	Grady Young	Booger	Middle School Male	13	Male	34:26.7	0:52.0	10:46.0	11:06.6	11:42.1					+4:04.8	+13.44%	88.16%	6.97%	3.34%	4	34
+5	1652	Keegan Fairbanks	Booger	Middle School Male	13	Male	35:21.8	0:55.5	10:39.4	11:47.3	11:59.6					+4:59.9	+16.46%	85.87%	4.49%	0.76%	4	32
+6	1641	Owen Valente	JBO Sports	Middle School Male	11	Male	35:54.5	0:54.5	11:42.3	11:49.1	11:28.6					+5:32.6	+18.26%	84.56%	3.01%	-0.76%	4	-
+7	1626	Cullen Turner	Booger	Middle School Male	12	Male	40:10.6	0:53.8	12:41.2	13:16.6	13:19.0					+9:48.7	+32.31%	75.58%	-8.51%	-12.74%	4	-
+8	1655	Eli Hansen	Cascadia Wheel Co. Dirt Team	Middle School Male	11	Male	41:18.8	0:55.3	12:42.8	13:19.6	14:21.1					+10:56.9	+36.06%	73.50%	-11.58%	-15.93%	4	-
+9	1650	Rocco Alexander	Booger	Middle School Male	12	Male	42:30.8	0:58.8	13:10.4	14:11.2	14:10.4					+12:08.9	+40.01%	71.42%	-14.83%	-19.30%	4	-
+10	1651	Ruben Stambaugh	Alki Rubicon	Middle School Male	12	Male	44:02.5	0:57.2	13:08.2	14:06.2	15:50.9					+13:40.6	+45.04%	68.95%	-18.95%	-23.59%	4	-
+-	1653	Ethan Durdle		Middle School Male	13	Male	DNS									-	-	-	-	-	0	17
+																						
+		Nonbinary Adult																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6			Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	138	Andy Jordan	Breakfast Racing Team	Nonbinary Adult	30	Non-Binary	59:01.4	1:00.4	11:18.7	11:13.2	11:39.6	11:58.2	11:51.3			-	-	100%	2.66%	2.66%	6	45
+2	139	Steph Bedwell	Breakfast Racing Team	Nonbinary Adult	48	Non-Binary	1:02:15.3	0:59.8	11:49.5	11:54.0	12:21.1	12:19.4	12:51.5			+3:13.9	+5.48%	94.81%	-2.66%	-2.66%	6	41
+3	140	Jay Ytell	Breakfast Racing Team	Nonbinary Adult	27	Non-Binary	-1 lap	0:59.7	12:26.6	12:47.7	12:57.1	13:13.4	-			-	-	-	-	-	5	38
+4	137	Jim Mayerstein		Nonbinary Adult	35	Non-Binary	-1 lap	1:02.4	14:36.1	14:58.5	14:56.8	14:50.1	-			-	-	-	-	-	5	-
+5	141	Cameron F	Breakfast Racing Team	Nonbinary Adult	36	Non-Binary	-5 laps	1:00.7	-	-	-	-	-			-	-	-	-	-	1	32
+																						
+		Single Speed Female																				
+Place	Bib	Name	Team name	Category	Age	Gender	Time	Lap 1	Lap 2	Lap 3	Lap 4	Lap 5	Lap 6			Difference	% Back	% Winning	% Average	% Median	Laps	Team_Points
+1	768	Becca Book		Single Speed Female	34	Female	51:44.2	0:36.5	9:49.4	9:58.4	10:26.9	10:22.6	10:30.4			-	-	100%	8.51%	9.86%	6	-
+2	751	Malia Greening	PNW Colavita Hellofresh	Single Speed Female	48	Female	53:41.3	0:36.9	11:39.8	10:21.1	10:16.5	10:11.7	10:35.3			+1:57.1	+3.77%	96.36%	5.06%	6.46%	6	-
+3	775	Roslyn Henricks	Country Green Turf Farms	Single Speed Female	40	Female	57:23.8	0:36.7	11:12.0	11:13.1	11:29.4	11:27.8	11:24.8			+5:39.6	+10.94%	90.14%	-1.50%	0.00%	6	-
+4	772	Rhys May	Breakfast Racing Team	Single Speed Female	34	Female	58:20.8	0:36.9	11:05.3	11:19.7	11:29.6	11:53.7	11:55.6			+6:36.6	+12.78%	88.67%	-3.18%	-1.66%	6	34
+5	767	Laurel Smith	Breakfast Racing Team	Single Speed Female	30	Non-Binary	1:01:34.9	0:37.7	11:44.5	12:03.3	12:29.2	12:12.1	12:28.1			+9:50.7	+19.03%	84.01%	-8.90%	-7.29%	6	32
+6	774	Mary Hubert	Pizza Pals	Single Speed Female	32	Non-Binary	-1 lap	0:38.7	13:08.6	12:57.5	13:35.4	13:47.6	-			-	-	-	-	-	5	-
+																						
