@@ -101,13 +101,3 @@ def join_all(file_list, date_list, header_path=None, header_line=None):
         main_df = pd.concat([main_df, clean(file_list[file], date_list[file])])
     return main_df
 
-
-events = ['Barnburner at Steilacoom 2023.txt', 'Starcrossed at Marymoor 2023.txt', 'Beach Party At Silver Lake 2023.txt',
-'Magnuson Park Cross 2023.txt', 'North 40 at LeMay 2023.txt', 'Woodland Park GP 2023.txt', 'The Beach Party at Silver Lake 2024.txt',
-'Starcrossed at Marymoor 2024.txt', 'Barnburner at Steilacoom 2024.txt', 'Magnuson Park Cross 2024.txt', 'North 40 - LeMay 2024.txt',
-'Woodland Park Gran Prix 2024.txt']
-dates = ['Sep 10, 2023', 'Sep 23, 2023', 'Oct 8, 2023', 'Oct 22, 2023', 'Nov 5, 2023', 'Nov 19, 2023', 'Sep 8, 2024', 'Sep 21, 2024', 'Oct 6, 2024', 'Oct 20, 2024', 'Nov 3, 2024', 'Nov 17, 2024']
-
-df = join_all(events, dates, events[-1], 331)
-
-df.columns
