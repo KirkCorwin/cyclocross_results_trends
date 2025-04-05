@@ -1,0 +1,2 @@
+## The data from this project comes from MFG Cyclocross, Off Camber Productions, and Webscorer.com, https://www.webscorer.com/mfgcyclocross?pg=results
+### This project analyzes the distribution of distance from the mean performance (by seconds from average lap time) and projects categorical trends based on aggregated trend lines for those who participated in four or more races in the 2023-2024 season
